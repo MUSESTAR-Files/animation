@@ -75,7 +75,7 @@ export const TheBangumiList = ()=>{
 		{
 			title:"间谍教室",
 			src:"https://www.musestar.top/animation/Spyroom",
-			img:"https://s1.imagehub.cc/images/2023/01/11/afaa8b07965871b302c0ba2c16302ac7.webp",
+			img:"https://s1.imagehub.cc/images/2022/12/23/e43f5a35cfc9c5226629a9b0f8fca824.jpeg",
 			releaseDate:new Date(2023,1,5),
 			classify:"战斗",
 			country:"日本",
@@ -84,7 +84,7 @@ export const TheBangumiList = ()=>{
 		{
 			title:"生而为狗 我很幸福",
 			src:"https://www.musestar.top/animation/Inuhiro",
-			img:"https://s1.imagehub.cc/images/2023/01/04/66358a90d9678b35784b8e00f432ee57.webp",
+			img:"https://s1.imagehub.cc/images/2023/01/11/afaa8b07965871b302c0ba2c16302ac7.webp",
 			releaseDate:new Date(2023,1,5),
 			classify:"喜剧",
 			country:"日本",
