@@ -349,7 +349,7 @@ export const TheBangumiMoveList = ()=>{
 		},
 		{
 			title:"铃芽之旅",
-			src:"https://www.musestar.top/film/lyhd",
+			src:"https://www.musestar.top/film/SuzumenoTojimari",
 			img:"https://s1.imagehub.cc/images/2022/12/04/016fecf9d2293894e6afdad40f8d07cc.webp",
 			releaseDate:new Date(2022,11,11),
 			classify:"奇幻",
