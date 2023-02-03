@@ -348,7 +348,7 @@ export const TheBangumiMoveList = ()=>{
 			state:"影片时长: 1:37:43"
 		},
 		{
-			title:"铃芽户缔",
+			title:"铃芽之旅",
 			src:"https://www.musestar.top/film/lyhd",
 			img:"https://s1.imagehub.cc/images/2022/12/04/016fecf9d2293894e6afdad40f8d07cc.webp",
 			releaseDate:new Date(2022,11,11),
