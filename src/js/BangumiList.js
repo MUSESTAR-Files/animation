@@ -16,7 +16,61 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2022,11,11),
 			classify:"冒险",
 			country:"日本",
-			state:"总话数: 12"
+			state:"(已完结)总话数: 12"
+		},
+		{
+			title:"我推的孩子",
+			src:"http://www.musestars.top/bangumi/playerX.html?idx=77473&title=%E6%88%91%E6%8E%A8%E7%9A%84%E5%AD%A9%E5%AD%90",//https://www.musestar.cc/animation/IchigoProduction
+			img:"https://s1.imagehub.cc/images/2023/04/05/941e43da896f4f6ee83ca574b7acf78c.webp",
+			releaseDate:new Date(2023,4,12),
+			classify:"奇幻",
+			country:"日本",
+			state:"(更新中)总话数: 预计12"
+		},
+		{
+			title:"鬼灭之刃 锻刀村篇",
+			src:"http://www.musestars.top/bangumi/playerX.html?idx=67911&title=%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83%E7%AC%AC%E4%B8%89%E5%AD%A3%20%E9%94%BB%E5%88%80%E6%9D%91%E7%AF%87",//https://www.musestar.cc/animation/kimetsuduandao
+			img:"https://s1.imagehub.cc/images/2023/04/05/ba0ffc14243997fddf460931bc2e74ba.webp",
+			releaseDate:new Date(2023,4,9),
+			classify:"剧情",
+			country:"日本",
+			state:"(更新中)总话数: 11"
+		},
+		{
+			title:"我的百合乃工作是也 ！",
+			src:"http://www.musestars.top/bangumi/playerX.html?idx=73921&title=%E6%88%91%E7%9A%84%E7%99%BE%E5%90%88%E4%B9%83%E5%B7%A5%E4%BD%9C%E6%98%AF%E4%B9%9F%EF%BC%81",//https://www.musestar.cc/animation/SchwesterninLiebe
+			img:"https://s1.imagehub.cc/images/2023/04/05/86ffc62c2423c4ffc23e021e6b1e4482.webp",
+			releaseDate:new Date(2023,4,6),
+			classify:"剧情",
+			country:"日本",
+			state:"(更新中)总话数: 预计12"
+		},
+		{
+			title:"为美好的世界献上爆焰！",
+			src:"http://www.musestars.top/bangumi/playerX.html?idx=74135&title=%E4%B8%BA%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%B8%96%E7%95%8C%E7%8C%AE%E4%B8%8A%E7%88%86%E7%82%8E%EF%BC%81",//https://www.musestar.cc/animation/KonosubaBaku
+			img:"https://s1.imagehub.cc/images/2023/04/05/75f52ebeb1d699db11d8eefd6e8bfd91.webp",
+			releaseDate:new Date(2023,4,5),
+			classify:"奇幻",
+			country:"日本",
+			state:"(更新中)总话数: 12"
+		},
+		{
+			title:"地狱乐",
+			src:"http://www.musestars.top/bangumi/playerX.html?idx=25567&title=%E5%9C%B0%E7%8B%B1%E4%B9%90",//https://www.musestar.cc/animation/dyl
+			img:"https://s1.imagehub.cc/images/2023/04/05/77f1585be8d41356066e13325650fe84.webp",
+			releaseDate:new Date(2023,4,1),
+			classify:"动作",
+			country:"日本",
+			state:"(更新中)总话数: 预计12"
+		},
+		{
+			title:"天国大魔境",
+			src:"http://www.musestars.top/bangumi/playerX.html?idx=77242&title=%E5%A4%A9%E5%9B%BD%E5%A4%A7%E9%AD%94%E5%A2%83",//https://www.musestar.cc/animation/TengokuDaimakyo
+			img:"https://s1.imagehub.cc/images/2023/04/05/df4ed51d6f752ad45ab89c34e508415f.webp",
+			releaseDate:new Date(2023,4,1),
+			classify:"奇幻",
+			country:"日本",
+			state:"(更新中)总话数: 13"
 		},
 		{
 			title:"因为太怕痛就全点防御力了第二季",
@@ -25,7 +79,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,1,11),
 			classify:"喜剧",
 			country:"日本",
-			state:"总话数: 预计12"
+			state:"(更新中)总话数: 12"
 		},
 		{
 			title:"妖幻三重奏",
@@ -34,7 +88,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,1,9),
 			classify:"奇幻",
 			country:"日本",
-			state:"总话数: 预计12"
+			state:"(更新中)总话数: 预计12"
 		},
 		{
 			title:"最强阴阳师的异世界转生记",
@@ -43,7 +97,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,1,7),
 			classify:"奇幻",
 			country:"日本",
-			state:"总话数: 预计12"
+			state:"(已完结)总话数: 13"
 		},
 		{
 			title:"关于我在无意间被隔壁的天使变成废柴这件事",
@@ -52,7 +106,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,1,7),
 			classify:"喜剧",
 			country:"日本",
-			state:"总话数: 预计12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"尼尔：自动人形",
@@ -61,7 +115,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,1,7),
 			classify:"战斗",
 			country:"日本",
-			state:"总话数: 预计12"
+			state:"(更新中)总话数: 预计12"
 		},
 		{
 			title:"别当欧尼酱了！",
@@ -70,7 +124,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,1,5),
 			classify:"喜剧",
 			country:"日本",
-			state:"总话数: 12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"间谍教室",
@@ -79,7 +133,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,1,5),
 			classify:"战斗",
 			country:"日本",
-			state:"总话数: 预计12"
+			state:"(已完结)总话数: 预计12"
 		},
 		{
 			title:"生而为狗 我很幸福",
@@ -88,7 +142,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,1,5),
 			classify:"喜剧",
 			country:"日本",
-			state:"总话数: 预计12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"转生王女与天才千金的魔法革命",
@@ -97,7 +151,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,1,4),
 			classify:"奇幻",
 			country:"日本",
-			state:"总话数: 预计12"
+			state:"(已完结)总话数: 12"
 		},
         {
             title:"2022年度番剧混剪",
@@ -115,7 +169,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2022,10,12),
 			classify:"恋爱",
 			country:"日本",
-			state:"总话数: 12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"电锯人",
@@ -124,7 +178,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2022,10,11),
 			classify:"剧情",
 			country:"日本",
-			state:"总话数: 12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"孤独摇滚！",
@@ -133,7 +187,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2022,10,8),
 			classify:"学园",
 			country:"日本",
-			state:"总话数: 12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"仙王的日常生活第三季",
@@ -142,7 +196,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2022,10,2),
 			classify:"喜剧",
 			country:"中国",
-			state:"总话数: 12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"间谍过家家第二部分",
@@ -151,7 +205,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2022,10,1),
 			classify:"喜剧",
 			country:"日本",
-			state:"总话数: 25"
+			state:"(已完结)总话数: 25"
 		},
 		{
 			title:"赛博朋克：边缘行者",
@@ -160,7 +214,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2022,9,13),
 			classify:"动作",
 			country:"日本",
-			state:"总话数: 10"
+			state:"(已完结)总话数: 10"
 		},
 		{
 			title:"最近雇的女仆有点怪",
@@ -169,7 +223,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2022,7,23),
 			classify:"恋爱",
 			country:"日本",
-			state:"总话数: 11"
+			state:"(已完结)总话数: 11"
 		},
 		{
 			title:"彻夜之歌",
@@ -178,7 +232,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2022,7,7),
 			classify:"恋爱",
 			country:"日本",
-			state:"总话数: 13"
+			state:"(已完结)总话数: 13"
 		},
 		{
 			title:"即使如此依旧步步进逼",
@@ -187,7 +241,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2022,7,7),
 			classify:"恋爱",
 			country:"日本",
-			state:"总话数: 12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"继母的拖油瓶是我的前女友",
@@ -196,7 +250,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2022,7,6),
 			classify:"恋爱",
 			country:"日本",
-			state:"总话数: 12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"异世界舅舅",
@@ -205,7 +259,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2022,7,6),
 			classify:"奇幻",
 			country:"日本",
-			state:"总话数: 13"
+			state:"(已完结)总话数: 13"
 		},
 		{
 			title:"契约之吻",
@@ -214,7 +268,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2022,7,4),
 			classify:"恋爱",
 			country:"日本",
-			state:"总话数: 12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"天籁人偶",
@@ -223,7 +277,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2022,7,4),
 			classify:"恋爱",
 			country:"日本",
-			state:"总话数: 12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"莉可丽丝",
@@ -232,7 +286,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2022,7,2),
 			classify:"战斗",
 			country:"日本",
-			state:"总话数: 12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"间谍过家家",
@@ -241,7 +295,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2022,4,9),
 			classify:"喜剧",
 			country:"日本",
-			state:"总话数: 12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"古见同学有交流障碍症第二季",
@@ -250,7 +304,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2022,4,6),
 			classify:"喜剧",
 			country:"日本",
-			state:"总话数: 12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"派对浪客诸葛孔明",
@@ -259,7 +313,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2022,4,6),
 			classify:"喜剧",
 			country:"日本",
-			state:"总话数: 12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"古见同学有交流障碍症",
@@ -268,7 +322,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2021,10,5),
 			classify:"喜剧",
 			country:"日本",
-			state:"总话数: 12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"某科学的超电磁炮T",
@@ -277,7 +331,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2020,1,11),
 			classify:"战斗",
 			country:"日本",
-			state:"总话数: 25"
+			state:"(已完结)总话数: 25"
 		},
 		{
 			title:"紫罗兰永恒花园",
@@ -286,7 +340,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2018,1,10),
 			classify:"治愈",
 			country:"日本",
-			state:"总话数: 14"
+			state:"(已完结)总话数: 14"
 		},
 		{
 			title:"埃罗芒阿老师",
@@ -295,7 +349,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2017,4,9),
 			classify:"喜剧",
 			country:"日本",
-			state:"总话数: 12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"珈百璃的堕落",
@@ -304,7 +358,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2017,1,9),
 			classify:"喜剧",
 			country:"日本",
-			state:"总话数: 12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"Charlotte",
@@ -313,7 +367,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2015,7,4),
 			classify:"治愈",
 			country:"日本",
-			state:"总话数: 13"
+			state:"(已完结)总话数: 13"
 		},
 		{
 			title:"某科学的超电磁炮S",
@@ -322,7 +376,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2013,4,12),
 			classify:"战斗",
 			country:"日本",
-			state:"总话数: 24"
+			state:"(已完结)总话数: 24"
 		},
 		{
 			title:"某科学的超电磁炮",
@@ -331,7 +385,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2009,10,2),
 			classify:"战斗",
 			country:"日本",
-			state:"总话数: 24"
+			state:"(已完结)总话数: 24"
 		}
 	]
 }
@@ -346,6 +400,24 @@ export const TheBangumiMoveList = ()=>{
 			classify:"恋爱",
 			country:"日本",
 			state:"影片时长: 1:37:43"
+		},
+		{
+			title:"间谍过家家 代号：白",
+			src:"https://www.musestar.cc/film/spyfamilycode",
+			img:"https://s1.imagehub.cc/images/2023/04/05/37706bfe20e0454511bf6cd47510b5e3.webp",
+			releaseDate:new Date(2023,12,22),
+			classify:"喜剧",
+			country:"日本",
+			state:"影片时长: x:xx:xx"
+		},
+		{
+			title:"青春期猪头少年不会梦到娇怜外出妹",
+			src:"https://www.musestar.cc/film/huafeng",
+			img:"https://s1.imagehub.cc/images/2023/04/05/d38900765088f33d2d83cbeb95342c0c.webp",
+			releaseDate:new Date(2023,6,23),
+			classify:"剧情",
+			country:"日本",
+			state:"影片时长: x:xx:xx"
 		},
 		{
 			title:"铃芽之旅",
