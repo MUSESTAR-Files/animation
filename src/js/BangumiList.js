@@ -47,7 +47,7 @@ export const TheBangumiList = ()=>{
 		},
 		{
 			title:"为美好的世界献上爆焰！",
-			src:"//https://www.musestar.cc/animation/KonosubaBaku",
+			src:"https://www.musestar.cc/animation/KonosubaBaku",
 			img:"https://s1.imagehub.cc/images/2023/04/05/75f52ebeb1d699db11d8eefd6e8bfd91.webp",
 			releaseDate:new Date(2023,4,5),
 			classify:"奇幻",
