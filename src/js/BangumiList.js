@@ -20,16 +20,16 @@ export const TheBangumiList = ()=>{
 		},
 		{
 			title:"我推的孩子",
-			src:"http://www.musestars.top/bangumi/playerX.html?idx=77473&title=%E6%88%91%E6%8E%A8%E7%9A%84%E5%AD%A9%E5%AD%90",//https://www.musestar.cc/animation/IchigoProduction
+			src:"https://www.musestar.cc/animation/IchigoProduction",
 			img:"https://s1.imagehub.cc/images/2023/04/14/a095977c44c9dc5232e57672d3eed48e.webp",
 			releaseDate:new Date(2023,4,12),
 			classify:"奇幻",
 			country:"日本",
-			state:"(更新中)总话数: 预计12"
+			state:"(更新中)总话数: 预计13"
 		},
 		{
 			title:"鬼灭之刃 锻刀村篇",
-			src:"http://www.musestars.top/bangumi/playerX.html?idx=67911&title=%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83%E7%AC%AC%E4%B8%89%E5%AD%A3%20%E9%94%BB%E5%88%80%E6%9D%91%E7%AF%87",//https://www.musestar.cc/animation/kimetsuduandao
+			src:"https://www.musestar.cc/animation/kimetsuduandao",
 			img:"https://s1.imagehub.cc/images/2023/04/05/ba0ffc14243997fddf460931bc2e74ba.webp",
 			releaseDate:new Date(2023,4,9),
 			classify:"剧情",
@@ -37,8 +37,8 @@ export const TheBangumiList = ()=>{
 			state:"(更新中)总话数: 11"
 		},
 		{
-			title:"我的百合乃工作是也 ！",
-			src:"http://www.musestars.top/bangumi/playerX.html?idx=73921&title=%E6%88%91%E7%9A%84%E7%99%BE%E5%90%88%E4%B9%83%E5%B7%A5%E4%BD%9C%E6%98%AF%E4%B9%9F%EF%BC%81",//https://www.musestar.cc/animation/SchwesterninLiebe
+			title:"我的百合乃工作是也！",
+			src:"https://www.musestar.cc/animation/SchwesterninLiebe",
 			img:"https://s1.imagehub.cc/images/2023/04/05/86ffc62c2423c4ffc23e021e6b1e4482.webp",
 			releaseDate:new Date(2023,4,6),
 			classify:"剧情",
@@ -47,7 +47,7 @@ export const TheBangumiList = ()=>{
 		},
 		{
 			title:"为美好的世界献上爆焰！",
-			src:"http://www.musestars.top/bangumi/playerX.html?idx=74135&title=%E4%B8%BA%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%B8%96%E7%95%8C%E7%8C%AE%E4%B8%8A%E7%88%86%E7%82%8E%EF%BC%81",//https://www.musestar.cc/animation/KonosubaBaku
+			src:"//https://www.musestar.cc/animation/KonosubaBaku",
 			img:"https://s1.imagehub.cc/images/2023/04/05/75f52ebeb1d699db11d8eefd6e8bfd91.webp",
 			releaseDate:new Date(2023,4,5),
 			classify:"奇幻",
@@ -56,7 +56,7 @@ export const TheBangumiList = ()=>{
 		},
 		{
 			title:"地狱乐",
-			src:"http://www.musestars.top/bangumi/playerX.html?idx=25567&title=%E5%9C%B0%E7%8B%B1%E4%B9%90",//https://www.musestar.cc/animation/dyl
+			src:"https://www.musestar.cc/animation/dyy",
 			img:"https://s1.imagehub.cc/images/2023/04/05/77f1585be8d41356066e13325650fe84.webp",
 			releaseDate:new Date(2023,4,1),
 			classify:"动作",
@@ -65,7 +65,7 @@ export const TheBangumiList = ()=>{
 		},
 		{
 			title:"天国大魔境",
-			src:"http://www.musestars.top/bangumi/playerX.html?idx=77242&title=%E5%A4%A9%E5%9B%BD%E5%A4%A7%E9%AD%94%E5%A2%83",//https://www.musestar.cc/animation/TengokuDaimakyo
+			src:"https://www.musestar.cc/animation/TengokuDaimakyo",
 			img:"https://s1.imagehub.cc/images/2023/04/05/df4ed51d6f752ad45ab89c34e508415f.webp",
 			releaseDate:new Date(2023,4,1),
 			classify:"奇幻",
