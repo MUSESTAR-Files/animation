@@ -1,7 +1,7 @@
 //下面是滚动图列表
 export const TheImgList = ()=> {
 	return [
-		{src: "https://s1.imagehub.cc/images/2023/04/05/941e43da896f4f6ee83ca574b7acf78c.webp", href: 'https://www.musestar.cc/animation/KonosubaBaku'},
+		{src: "https://s1.imagehub.cc/images/2023/04/14/a095977c44c9dc5232e57672d3eed48e.webp", href: 'https://www.musestar.cc/animation/KonosubaBaku'},
 		{src: "https://s1.imagehub.cc/images/2023/04/05/df4ed51d6f752ad45ab89c34e508415f.webp", href: 'https://www.musestar.cc/animation/IchigoProduction'},
 		{src: "https://s1.imagehub.cc/images/2023/04/05/75f52ebeb1d699db11d8eefd6e8bfd91.webp", href: 'https://www.musestar.cc/animation/TengokuDaimakyo'}
 	];
@@ -21,7 +21,7 @@ export const TheBangumiList = ()=>{
 		{
 			title:"我推的孩子",
 			src:"http://www.musestars.top/bangumi/playerX.html?idx=77473&title=%E6%88%91%E6%8E%A8%E7%9A%84%E5%AD%A9%E5%AD%90",//https://www.musestar.cc/animation/IchigoProduction
-			img:"https://s1.imagehub.cc/images/2023/04/05/941e43da896f4f6ee83ca574b7acf78c.webp",
+			img:"https://s1.imagehub.cc/images/2023/04/14/a095977c44c9dc5232e57672d3eed48e.webp",
 			releaseDate:new Date(2023,4,12),
 			classify:"奇幻",
 			country:"日本",
