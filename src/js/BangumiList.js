@@ -136,7 +136,7 @@ export const TheBangumiList = ()=>{
 			state:"(已完结)总话数: 预计12"
 		},
 		{
-			title:"生而为狗 我很幸福",
+			title:"无意间变成狗，被喜欢的女生捡回家。",
 			src:"https://www.musestar.cc/animation/Inuhiro",
 			img:"https://s1.imagehub.cc/images/2023/01/11/afaa8b07965871b302c0ba2c16302ac7.webp",
 			releaseDate:new Date(2023,1,5),
