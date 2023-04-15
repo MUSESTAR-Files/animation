@@ -55,6 +55,15 @@ export const TheBangumiList = ()=>{
 			state:"(更新中)总话数: 12"
 		},
 		{
+			title:"我心里危险的东西",
+			src:"https://www.musestar.cc/animation/Bokuyaba",
+			img:"https://s1.imagehub.cc/images/2023/04/15/eda095324a01b376ab56bc426d01b276.webp",
+			releaseDate:new Date(2023,4,1),
+			classify:"爱情",
+			country:"日本",
+			state:"(更新中)总话数: 预计12"
+		},
+		{
 			title:"地狱乐",
 			src:"https://www.musestar.cc/animation/dyy",
 			img:"https://s1.imagehub.cc/images/2023/04/05/77f1585be8d41356066e13325650fe84.webp",
