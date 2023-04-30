@@ -10,6 +10,15 @@ export const TheImgList = ()=> {
 export const TheBangumiList = ()=>{
 	return [
 		{
+			title:"搜索动漫",
+			src:"http://www.musestars.top/",
+			img:"https://api.anosu.top/api/?sort=all",
+			releaseDate:new Date(2024,1,1),
+			classify:"自定义",
+			country:"搜索",
+			state:"第三方播放源在线播放"
+		},
+		{
 			title:"魔女之旅",
 			src:"https://www.musestar.cc/animation/mnzl",
 			img:"https://s1.imagehub.cc/images/2022/12/04/e50bf5b9866cded55cfd9f4596d71a82.webp",
@@ -401,6 +410,15 @@ export const TheBangumiList = ()=>{
 //下面是剧场列表
 export const TheBangumiMoveList = ()=>{
 	return [
+		{
+			title:"搜索剧场",
+			src:"http://www.musestars.top/",
+			img:"https://api.anosu.top/api/?sort=all",
+			releaseDate:new Date(2024,1,1),
+			classify:"自定义",
+			country:"搜索",
+			state:"第三方播放源在线播放"
+		},
 		{
 			title:"你好世界",
 			src:"https://www.musestar.cc/film/HelloWorld",
