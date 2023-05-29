@@ -462,7 +462,7 @@ export const TheBangumiMoveList = ()=>{
 			releaseDate:new Date(2022,9,9),
 			classify:"恋爱",
 			country:"日本",
-			state:"影片时长: x:xx:xx"
+			state:"影片时长: 1:22:39"
 		},
 		{
 			title:"雀斑公主",
