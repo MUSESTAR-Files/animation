@@ -457,7 +457,7 @@ export const TheBangumiMoveList = ()=>{
 		},
 		{
 			title:"通往夏天的隧道,再见的出口",
-			src:"https://www.musestar.cc/film/twxtdsd",
+			src:"https://www.musestar.cc/film/NatsuenoTunnel",
 			img:"https://s1.imagehub.cc/images/2022/12/04/3315a902ab17bfb4922cf350437e9877.webp",
 			releaseDate:new Date(2022,9,9),
 			classify:"恋爱",
