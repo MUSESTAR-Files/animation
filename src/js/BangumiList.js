@@ -34,7 +34,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,4,12),
 			classify:"奇幻",
 			country:"日本",
-			state:"(更新中)总话数: 预计13"
+			state:"(更新中)总话数: 11"
 		},
 		{
 			title:"鬼灭之刃 锻刀村篇",
