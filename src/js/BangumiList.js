@@ -447,6 +447,15 @@ export const TheBangumiMoveList = ()=>{
 			state:"影片时长: x:xx:xx"
 		},
 		{
+			title:"刀剑神域进击篇：暮色黄昏",
+			src:"https://www.musestar.cc/film/SwordArtOnlineK",
+			img:"https://s1.imagehub.cc/images/2023/06/08/SwordArtOnlineK.webp",
+			releaseDate:new Date(2023,5,26),
+			classify:"动作",
+			country:"日本",
+			state:"影片时长: 1:40:30"
+		},
+		{
 			title:"铃芽之旅",
 			src:"https://www.musestar.cc/film/SuzumenoTojimari",
 			img:"https://s1.imagehub.cc/images/2022/12/04/016fecf9d2293894e6afdad40f8d07cc.webp",
