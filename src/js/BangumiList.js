@@ -52,7 +52,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,4,12),
 			classify:"奇幻",
 			country:"日本",
-			state:"(更新中)总话数: 11"
+			state:"(已完结)总话数: 11"
 		},
 		{
 			title:"鬼灭之刃 锻刀村篇",
@@ -61,7 +61,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,4,9),
 			classify:"剧情",
 			country:"日本",
-			state:"(更新中)总话数: 11"
+			state:"(已完结)总话数: 11"
 		},
 		{
 			title:"我的百合乃工作是也！",
@@ -70,7 +70,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,4,6),
 			classify:"剧情",
 			country:"日本",
-			state:"(更新中)总话数: 预计12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"为美好的世界献上爆焰！",
@@ -79,7 +79,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,4,5),
 			classify:"奇幻",
 			country:"日本",
-			state:"(更新中)总话数: 12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"我心里危险的东西",
@@ -88,7 +88,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,4,1),
 			classify:"爱情",
 			country:"日本",
-			state:"(更新中)总话数: 预计12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"地狱乐",
@@ -97,7 +97,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,4,1),
 			classify:"动作",
 			country:"日本",
-			state:"(更新中)总话数: 预计12"
+			state:"(已完结)总话数: 13"
 		},
 		{
 			title:"天国大魔境",
@@ -106,7 +106,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,4,1),
 			classify:"奇幻",
 			country:"日本",
-			state:"(更新中)总话数: 13"
+			state:"(已完结)总话数: 13"
 		},
 		{
 			title:"因为太怕痛就全点防御力了第二季",
@@ -115,7 +115,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,1,11),
 			classify:"喜剧",
 			country:"日本",
-			state:"(更新中)总话数: 12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"妖幻三重奏",
