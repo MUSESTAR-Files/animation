@@ -19,11 +19,29 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
-			title:"魔女之旅",
-			src:"https://www.musestar.cc/animation/mnzl",
-			img:"https://s1.imagehub.cc/images/2022/12/04/e50bf5b9866cded55cfd9f4596d71a82.webp",
-			releaseDate:new Date(2022,11,11),
-			classify:"冒险",
+			title:"僵尸百分百",
+			src:"https://www.musestar.cc/animation/zom100",
+			img:"https://s1.imagehub.cc/images/2023/07/18/zom100.webp",
+			releaseDate:new Date(2023,7,9),
+			classify:"喜剧",
+			country:"日本",
+			state:"(已完结)总话数: 12"
+		},
+		{
+			title:"AI电子基因",
+			src:"https://www.musestar.cc/animation/ainoidenshi",
+			img:"https://s1.imagehub.cc/images/2023/07/18/ainoidenshi.webp",
+			releaseDate:new Date(2023,7,7),
+			classify:"科幻",
+			country:"日本",
+			state:"(已完结)总话数: 12"
+		},
+		{
+			title:"无职转生Ⅱ",
+			src:"https://www.musestar.cc/animation/mushokutensei",
+			img:"https://s1.imagehub.cc/images/2023/07/18/mushokutensei.webp",
+			releaseDate:new Date(2023,7,2),
+			classify:"奇幻",
 			country:"日本",
 			state:"(已完结)总话数: 12"
 		},
@@ -343,6 +361,15 @@ export const TheBangumiList = ()=>{
 			state:"(已完结)总话数: 12"
 		},
 		{
+			title:"魔女之旅",
+			src:"https://www.musestar.cc/animation/mnzl",
+			img:"https://s1.imagehub.cc/images/2022/12/04/e50bf5b9866cded55cfd9f4596d71a82.webp",
+			releaseDate:new Date(2020,10,2),
+			classify:"冒险",
+			country:"日本",
+			state:"(已完结)总话数: 12"
+		},
+		{
 			title:"某科学的超电磁炮T",
 			src:"https://www.musestar.cc/animation/Railgun3",
 			img:"https://s1.imagehub.cc/images/2022/12/04/b0217f15c74aee33496addf8e0a6dc0f.webp",
@@ -420,15 +447,6 @@ export const TheBangumiMoveList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
-			title:"你好世界",
-			src:"https://www.musestar.cc/film/HelloWorld",
-			img:"https://s1.imagehub.cc/images/2022/12/04/ab787edbfcdc71970465ac43e1bf36dd.webp",
-			releaseDate:new Date(2021,6,11),
-			classify:"恋爱",
-			country:"日本",
-			state:"影片时长: 1:37:43"
-		},
-		{
 			title:"间谍过家家 代号：白",
 			src:"https://www.musestar.cc/film/spyfamilycode",
 			img:"https://s1.imagehub.cc/images/2023/04/05/37706bfe20e0454511bf6cd47510b5e3.webp",
@@ -490,6 +508,15 @@ export const TheBangumiMoveList = ()=>{
 			classify:"恋爱",
 			country:"日本",
 			state:"影片时长: 2:16:18"
+		},
+		{
+			title:"你好世界",
+			src:"https://www.musestar.cc/film/HelloWorld",
+			img:"https://s1.imagehub.cc/images/2022/12/04/ab787edbfcdc71970465ac43e1bf36dd.webp",
+			releaseDate:new Date(2021,6,11),
+			classify:"恋爱",
+			country:"日本",
+			state:"影片时长: 1:37:43"
 		},
 		{
 			title:"紫罗兰永恒花园剧场版",
