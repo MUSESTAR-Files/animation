@@ -480,7 +480,7 @@ export const TheBangumiMoveList = ()=>{
 			releaseDate:new Date(2022,11,11),
 			classify:"奇幻",
 			country:"日本",
-			state:"影片时长: x:xx:xx"
+			state:"影片时长: 2:01:28"
 		},
 		{
 			title:"通往夏天的隧道,再见的出口",
