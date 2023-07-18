@@ -25,7 +25,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,7,9),
 			classify:"喜剧",
 			country:"日本",
-			state:"(已完结)总话数: 12"
+			state:"(更新中)总话数: 预计12"
 		},
 		{
 			title:"AI电子基因",
@@ -34,7 +34,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,7,7),
 			classify:"科幻",
 			country:"日本",
-			state:"(已完结)总话数: 12"
+			state:"(更新中)总话数: 预计12"
 		},
 		{
 			title:"无职转生Ⅱ",
@@ -43,7 +43,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,7,2),
 			classify:"奇幻",
 			country:"日本",
-			state:"(已完结)总话数: 12"
+			state:"(更新中)总话数: 预计12"
 		},
 		{
 			title:"我推的孩子",
