@@ -1,9 +1,9 @@
 //下面是滚动图列表
 export const TheImgList = ()=> {
 	return [
-		{src: "https://s1.imagehub.cc/images/2023/04/14/a095977c44c9dc5232e57672d3eed48e.webp", href: 'https://www.musestar.cc/animation/KonosubaBaku'},
-		{src: "https://s1.imagehub.cc/images/2023/04/05/df4ed51d6f752ad45ab89c34e508415f.webp", href: 'https://www.musestar.cc/animation/IchigoProduction'},
-		{src: "https://s1.imagehub.cc/images/2023/04/05/75f52ebeb1d699db11d8eefd6e8bfd91.webp", href: 'https://www.musestar.cc/animation/TengokuDaimakyo'}
+		{src: "https://s1.imagehub.cc/images/2023/07/18/mushokutensei.webp", href: 'https://www.musestar.cc/animation/ainoidenshi'},
+		{src: "https://s1.imagehub.cc/images/2023/07/18/zom100.webp", href: 'https://www.musestar.cc/animation/mushokutensei'},
+		{src: "https://s1.imagehub.cc/images/2023/07/18/ainoidenshi.webp", href: 'https://www.musestar.cc/animation/zom100'}
 	];
 }
 //下面是番剧列表
