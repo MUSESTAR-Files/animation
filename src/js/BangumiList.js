@@ -37,6 +37,15 @@ export const TheBangumiList = ()=>{
 			state:"(更新中)总话数: 预计12"
 		},
 		{
+			title:"命运/奇异赝品 黎明低语",
+			src:"https://www.musestar.cc/animation/fate",
+			img:"https://s1.imagehub.cc/images/2023/07/19/fate.webp",
+			releaseDate:new Date(2023,7,3),
+			classify:"奇幻",
+			country:"日本",
+			state:"(更新中)总话数: 预计12"
+		},
+		{
 			title:"无职转生Ⅱ",
 			src:"https://www.musestar.cc/animation/mushokutensei",
 			img:"https://s1.imagehub.cc/images/2023/07/18/mushokutensei.webp",
