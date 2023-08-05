@@ -1,9 +1,9 @@
 //下面是滚动图列表
 export const TheImgList = ()=> {
 	return [
-		{src: "https://s1.imagehub.cc/images/2023/07/18/mushokutensei.webp", href: 'https://www.musestar.cc/animation/fate'},
+		{src: "https://s1.imagehub.cc/images/2023/08/05/shiroseijyo.webp", href: 'https://www.musestar.cc/animation/zom100'},
+		{src: "https://s1.imagehub.cc/images/2023/07/18/mushokutensei.webp", href: 'https://www.musestar.cc/animation/shiroseijyo'},
 		{src: "https://s1.imagehub.cc/images/2023/07/18/zom100.webp", href: 'https://www.musestar.cc/animation/mushokutensei'},
-		{src: "https://s1.imagehub.cc/images/2023/07/19/fate.webp", href: 'https://www.musestar.cc/animation/zom100'}
 	];
 }
 //下面是番剧列表
@@ -17,6 +17,15 @@ export const TheBangumiList = ()=>{
 			classify:"自定义",
 			country:"搜索",
 			state:"第三方播放源在线播放"
+		},
+		{
+			title:"白圣女与黑牧师",
+			src:"https://www.musestar.cc/animation/shiroseijyo",
+			img:"https://s1.imagehub.cc/images/2023/08/05/shiroseijyo.webp",
+			releaseDate:new Date(2023,7,12),
+			classify:"恋爱",
+			country:"日本",
+			state:"(更新中)总话数: 12"
 		},
 		{
 			title:"僵尸百分百",
