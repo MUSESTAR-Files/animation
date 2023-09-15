@@ -11,7 +11,7 @@ export const TheBangumiList = ()=>{
 	return [
 		{
 			title:"搜索动漫",
-			src:"http://www.musestars.top/",
+			src:"http://search.musestar.cc/",
 			img:"https://api.anosu.top/api/?sort=all",
 			releaseDate:new Date(2024,1,1),
 			classify:"自定义",
@@ -457,7 +457,7 @@ export const TheBangumiMoveList = ()=>{
 	return [
 		{
 			title:"搜索剧场",
-			src:"http://www.musestars.top/",
+			src:"http://search.musestar.cc/",
 			img:"https://api.anosu.top/api/?sort=all",
 			releaseDate:new Date(2024,1,1),
 			classify:"自定义",
