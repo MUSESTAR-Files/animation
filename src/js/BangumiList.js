@@ -137,13 +137,13 @@ export const TheBangumiList = ()=>{
 			state:"总话数: 未知"
 		},
 		{
-			title:"无职转生Ⅱ",
+			title:"无职转生Ⅱ Part1",
 			src:"https://www.musestar.cc/animation/mushokutensei",
 			img:"https://s1.imagehub.cc/images/2023/07/18/mushokutensei.webp",
 			releaseDate:new Date(2023,7,2),
 			classify:"奇幻",
 			country:"日本",
-			state:"(更新中)总话数: 25"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"我推的孩子",
