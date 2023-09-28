@@ -1,9 +1,10 @@
 //下面是滚动图列表
 export const TheImgList = ()=> {
 	return [
-		{src: "https://s1.imagehub.cc/images/2023/08/05/shiroseijyo.webp", href: 'https://www.musestar.cc/animation/zom100'},
-		{src: "https://s1.imagehub.cc/images/2023/07/18/mushokutensei.webp", href: 'https://www.musestar.cc/animation/shiroseijyo'},
-		{src: "https://s1.imagehub.cc/images/2023/07/18/zom100.webp", href: 'https://www.musestar.cc/animation/mushokutensei'},
+		{src: "https://s1.imagehub.cc/images/2023/09/28/spyfamilys2.webp", href: 'https://www.musestar.cc/animation/TheEminenceinShadow2'},
+		{src: "https://s1.imagehub.cc/images/2023/09/28/FrierenBeyondJourneysEnd.webp", href: 'https://www.musestar.cc/animation/spyfamilys2'},
+		{src: "https://s1.imagehub.cc/images/2023/09/28/hoshitele.webp", href: 'https://www.musestar.cc/animation/FrierenBeyondJourneysEnd'},
+		{src: "https://s1.imagehub.cc/images/2023/09/28/TheEminenceinShadow2.webp", href: 'https://www.musestar.cc/animation/hoshitele'},
 	];
 }
 //下面是番剧列表
@@ -19,13 +20,94 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
+			title:"星灵感应",
+			src:"https://www.musestar.cc/animation/hoshitele",
+			img:"https://s1.imagehub.cc/images/2023/09/28/hoshitele.webp",
+			releaseDate:new Date(2023,10,0),
+			classify:"奇幻",
+			country:"日本",
+			state:"(更新中)总话数: 未知"
+		},
+		{
+			title:"冥王",
+			src:"https://www.musestar.cc/animation/PLUTO",
+			img:"https://s1.imagehub.cc/images/2023/09/28/PLUTO.webp",
+			releaseDate:new Date(2023,10,26),
+			classify:"剧情",
+			country:"日本",
+			state:"(更新中)总话数: 8"
+		},
+		{
+			title:"间谍过家家第二季",
+			src:"https://www.musestar.cc/animation/spyfamilys2",
+			img:"https://s1.imagehub.cc/images/2023/09/28/spyfamilys2.webp",
+			releaseDate:new Date(2023,10,7),
+			classify:"喜剧",
+			country:"日本",
+			state:"(更新中)总话数: 13"
+		},
+		{
+			title:"家里蹲吸血姬的苦闷",
+			src:"https://www.musestar.cc/animation/hikikomari",
+			img:"https://s1.imagehub.cc/images/2023/09/28/hikikomari.webp",
+			releaseDate:new Date(2023,10,7),
+			classify:"奇幻",
+			country:"日本",
+			state:"(更新中)总话数: 未知"
+		},
+		{
+			title:"经验丰富的你和经验为零的我交往的故事",
+			src:"https://www.musestar.cc/animation/kimizero",
+			img:"https://s1.imagehub.cc/images/2023/09/28/kimizero.webp",
+			releaseDate:new Date(2023,10,6),
+			classify:"恋爱",
+			country:"日本",
+			state:"(更新中)总话数: 未知"
+		},
+		{
+			title:"想要成为影之实力者！第二季",
+			src:"https://www.musestar.cc/animation/TheEminenceinShadow2",
+			img:"https://s1.imagehub.cc/images/2023/09/28/TheEminenceinShadow2.webp",
+			releaseDate:new Date(2023,10,4),
+			classify:"奇幻",
+			country:"日本",
+			state:"(更新中)总话数: 12"
+		},
+		{
+			title:"赛马娘第三季",
+			src:"https://www.musestar.cc/animation/umamusume3",
+			img:"https://s1.imagehub.cc/images/2023/09/28/umamusume3.webp",
+			releaseDate:new Date(2023,10,4),
+			classify:"剧情",
+			country:"日本",
+			state:"(更新中)总话数: 13"
+		},
+		{
+			title:"16bit的感动",
+			src:"https://www.musestar.cc/animation/16bitsensation",
+			img:"https://s1.imagehub.cc/images/2023/09/28/16bitsensation.webp",
+			releaseDate:new Date(2023,10,4),
+			classify:"剧情",
+			country:"日本",
+			state:"(更新中)总话数: 未知"
+		},
+		{
+			title:"葬送的芙莉莲",
+			src:"https://www.musestar.cc/animation/FrierenBeyondJourneysEnd",
+			img:"https://s1.imagehub.cc/images/2023/09/28/FrierenBeyondJourneysEnd.webp",
+			releaseDate:new Date(2023,9,29),
+			classify:"剧情",
+			country:"日本",
+			state:"(更新中)总话数: 25"
+		},
+		{
 			title:"白圣女与黑牧师",
 			src:"https://www.musestar.cc/animation/shiroseijyo",
 			img:"https://s1.imagehub.cc/images/2023/08/05/shiroseijyo.webp",
 			releaseDate:new Date(2023,7,12),
 			classify:"恋爱",
 			country:"日本",
-			state:"(更新中)总话数: 12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"僵尸百分百",
@@ -34,7 +116,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,7,9),
 			classify:"喜剧",
 			country:"日本",
-			state:"(更新中)总话数: 未知"
+			state:"(更新中)总话数: 12"
 		},
 		{
 			title:"AI电子基因",
@@ -43,7 +125,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,7,7),
 			classify:"科幻",
 			country:"日本",
-			state:"(更新中)总话数: 未知"
+			state:"(更新中)总话数: 12"
 		},
 		{
 			title:"命运/奇异赝品 黎明低语",
@@ -52,7 +134,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,7,3),
 			classify:"奇幻",
 			country:"日本",
-			state:"(更新中)总话数: 未知"
+			state:"总话数: 未知"
 		},
 		{
 			title:"无职转生Ⅱ",
@@ -474,8 +556,26 @@ export const TheBangumiMoveList = ()=>{
 			state:"影片时长: x:xx:xx"
 		},
 		{
+			title:"青春期猪头少年不做小学美少女的梦",
+			src:"https://www.musestar.cc/film/knapsack",
+			img:"https://s1.imagehub.cc/images/2023/09/28/knapsack.webp",
+			releaseDate:new Date(2023,12,1),
+			classify:"剧情",
+			country:"日本",
+			state:"影片时长: x:xx:xx"
+		},
+		{
+			title:"进击的巨人 最终季 完结篇 后篇",
+			src:"https://www.musestar.cc/film/AttackonTitan",
+			img:"https://s1.imagehub.cc/images/2023/09/28/AttackonTitan.webp",
+			releaseDate:new Date(2023,11,4),
+			classify:"动作",
+			country:"日本",
+			state:"影片时长: x:xx:xx"
+		},
+		{
 			title:"青春期猪头少年不会梦到娇怜外出妹",
-			src:"https://www.musestar.cc/film/huafeng",
+			src:"https://www.musestar.cc/film/odekake",
 			img:"https://s1.imagehub.cc/images/2023/04/05/d38900765088f33d2d83cbeb95342c0c.webp",
 			releaseDate:new Date(2023,6,23),
 			classify:"剧情",
