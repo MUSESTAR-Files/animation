@@ -1,10 +1,10 @@
 //下面是滚动图列表
 export const TheImgList = ()=> {
 	return [
-		{src: "https://s1.imagehub.cc/images/2023/09/28/spyfamilys2.webp", href: 'https://www.musestar.cc/animation/TheEminenceinShadow2'},
-		{src: "https://s1.imagehub.cc/images/2023/09/28/FrierenBeyondJourneysEnd.webp", href: 'https://www.musestar.cc/animation/spyfamilys2'},
-		{src: "https://s1.imagehub.cc/images/2023/09/28/hoshitele.webp", href: 'https://www.musestar.cc/animation/FrierenBeyondJourneysEnd'},
-		{src: "https://s1.imagehub.cc/images/2023/09/28/TheEminenceinShadow2.webp", href: 'https://www.musestar.cc/animation/hoshitele'},
+		{src: "https://s1.imagehub.cc/images/2023/09/29/spyfamilys2.jpeg", href: 'https://www.musestar.cc/animation/TheEminenceinShadow2'},
+		{src: "https://s1.imagehub.cc/images/2023/09/29/FrierenBeyondJourneysEnd.jpeg", href: 'https://www.musestar.cc/animation/spyfamilys2'},
+		{src: "https://s1.imagehub.cc/images/2023/09/29/hoshitele.jpeg", href: 'https://www.musestar.cc/animation/FrierenBeyondJourneysEnd'},
+		{src: "https://s1.imagehub.cc/images/2023/09/29/TheEminenceinShadow2.jpeg", href: 'https://www.musestar.cc/animation/hoshitele'},
 	];
 }
 //下面是番剧列表
@@ -22,7 +22,7 @@ export const TheBangumiList = ()=>{
 		{
 			title:"星灵感应",
 			src:"https://www.musestar.cc/animation/hoshitele",
-			img:"https://s1.imagehub.cc/images/2023/09/28/hoshitele.webp",
+			img:"https://s1.imagehub.cc/images/2023/09/29/hoshitele.jpeg",
 			releaseDate:new Date(2023,10,0),
 			classify:"奇幻",
 			country:"日本",
@@ -31,7 +31,7 @@ export const TheBangumiList = ()=>{
 		{
 			title:"冥王",
 			src:"https://www.musestar.cc/animation/PLUTO",
-			img:"https://s1.imagehub.cc/images/2023/09/28/PLUTO.webp",
+			img:"https://s1.imagehub.cc/images/2023/09/29/PLUTO.jpeg",
 			releaseDate:new Date(2023,10,26),
 			classify:"剧情",
 			country:"日本",
@@ -40,7 +40,7 @@ export const TheBangumiList = ()=>{
 		{
 			title:"间谍过家家第二季",
 			src:"https://www.musestar.cc/animation/spyfamilys2",
-			img:"https://s1.imagehub.cc/images/2023/09/28/spyfamilys2.webp",
+			img:"https://s1.imagehub.cc/images/2023/09/29/spyfamilys2.jpeg",
 			releaseDate:new Date(2023,10,7),
 			classify:"喜剧",
 			country:"日本",
@@ -49,7 +49,7 @@ export const TheBangumiList = ()=>{
 		{
 			title:"家里蹲吸血姬的苦闷",
 			src:"https://www.musestar.cc/animation/hikikomari",
-			img:"https://s1.imagehub.cc/images/2023/09/28/hikikomari.webp",
+			img:"https://s1.imagehub.cc/images/2023/09/29/hikikomari.jpeg",
 			releaseDate:new Date(2023,10,7),
 			classify:"奇幻",
 			country:"日本",
@@ -58,7 +58,7 @@ export const TheBangumiList = ()=>{
 		{
 			title:"经验丰富的你和经验为零的我交往的故事",
 			src:"https://www.musestar.cc/animation/kimizero",
-			img:"https://s1.imagehub.cc/images/2023/09/28/kimizero.webp",
+			img:"https://s1.imagehub.cc/images/2023/09/29/kimizero.jpeg",
 			releaseDate:new Date(2023,10,6),
 			classify:"恋爱",
 			country:"日本",
@@ -67,7 +67,7 @@ export const TheBangumiList = ()=>{
 		{
 			title:"想要成为影之实力者！第二季",
 			src:"https://www.musestar.cc/animation/TheEminenceinShadow2",
-			img:"https://s1.imagehub.cc/images/2023/09/28/TheEminenceinShadow2.webp",
+			img:"https://s1.imagehub.cc/images/2023/09/29/TheEminenceinShadow2.jpeg",
 			releaseDate:new Date(2023,10,4),
 			classify:"奇幻",
 			country:"日本",
@@ -76,7 +76,7 @@ export const TheBangumiList = ()=>{
 		{
 			title:"赛马娘第三季",
 			src:"https://www.musestar.cc/animation/umamusume3",
-			img:"https://s1.imagehub.cc/images/2023/09/28/umamusume3.webp",
+			img:"https://s1.imagehub.cc/images/2023/09/29/umamusume3.jpeg",
 			releaseDate:new Date(2023,10,4),
 			classify:"剧情",
 			country:"日本",
@@ -85,7 +85,7 @@ export const TheBangumiList = ()=>{
 		{
 			title:"16bit的感动",
 			src:"https://www.musestar.cc/animation/16bitsensation",
-			img:"https://s1.imagehub.cc/images/2023/09/28/16bitsensation.webp",
+			img:"https://s1.imagehub.cc/images/2023/09/29/16bitsensation.jpeg",
 			releaseDate:new Date(2023,10,4),
 			classify:"剧情",
 			country:"日本",
@@ -94,7 +94,7 @@ export const TheBangumiList = ()=>{
 		{
 			title:"葬送的芙莉莲",
 			src:"https://www.musestar.cc/animation/FrierenBeyondJourneysEnd",
-			img:"https://s1.imagehub.cc/images/2023/09/28/FrierenBeyondJourneysEnd.webp",
+			img:"https://s1.imagehub.cc/images/2023/09/29/FrierenBeyondJourneysEnd.jpeg",
 			releaseDate:new Date(2023,9,29),
 			classify:"剧情",
 			country:"日本",
@@ -558,7 +558,7 @@ export const TheBangumiMoveList = ()=>{
 		{
 			title:"青春期猪头少年不做小学美少女的梦",
 			src:"https://www.musestar.cc/film/knapsack",
-			img:"https://s1.imagehub.cc/images/2023/09/28/knapsack.webp",
+			img:"https://s1.imagehub.cc/images/2023/09/29/knapsack.jpeg",
 			releaseDate:new Date(2023,12,1),
 			classify:"剧情",
 			country:"日本",
@@ -567,7 +567,7 @@ export const TheBangumiMoveList = ()=>{
 		{
 			title:"进击的巨人 最终季 完结篇 后篇",
 			src:"https://www.musestar.cc/film/AttackonTitan",
-			img:"https://s1.imagehub.cc/images/2023/09/28/AttackonTitan.webp",
+			img:"https://s1.imagehub.cc/images/2023/09/29/AttackonTitan.png",
 			releaseDate:new Date(2023,11,4),
 			classify:"动作",
 			country:"日本",
