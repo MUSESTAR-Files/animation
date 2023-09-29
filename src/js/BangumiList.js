@@ -224,7 +224,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,1,9),
 			classify:"奇幻",
 			country:"日本",
-			state:"(更新中)总话数: 预计12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"最强阴阳师的异世界转生记",
