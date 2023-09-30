@@ -125,7 +125,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,7,7),
 			classify:"科幻",
 			country:"日本",
-			state:"(更新中)总话数: 12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"命运/奇异赝品 黎明低语",
