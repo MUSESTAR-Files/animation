@@ -20,15 +20,6 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
-			title:"星灵感应",
-			src:"https://www.musestar.cc/animation/hoshitele",
-			img:"https://s1.imagehub.cc/images/2023/09/29/hoshitele.jpeg",
-			releaseDate:new Date(2023,10,0),
-			classify:"奇幻",
-			country:"日本",
-			state:"(更新中)总话数: 未知"
-		},
-		{
 			title:"冥王",
 			src:"https://www.musestar.cc/animation/PLUTO",
 			img:"https://s1.imagehub.cc/images/2023/09/29/PLUTO.jpeg",
@@ -36,6 +27,15 @@ export const TheBangumiList = ()=>{
 			classify:"剧情",
 			country:"日本",
 			state:"(更新中)总话数: 8"
+		},
+		{
+			title:"星灵感应",
+			src:"https://www.musestar.cc/animation/hoshitele",
+			img:"https://s1.imagehub.cc/images/2023/09/29/hoshitele.jpeg",
+			releaseDate:new Date(2023,10,9),
+			classify:"奇幻",
+			country:"日本",
+			state:"(更新中)总话数: 未知"
 		},
 		{
 			title:"间谍过家家第二季",
