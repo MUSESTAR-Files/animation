@@ -26,7 +26,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,10,26),
 			classify:"剧情",
 			country:"日本",
-			state:"(更新中)总话数: 8"
+			state:"(未上映)总话数: 8"
 		},
 		{
 			title:"星灵感应",
@@ -549,14 +549,14 @@ export const TheBangumiMoveList = ()=>{
 		{
 			title:"间谍过家家 代号：白",
 			src:"https://www.musestar.cc/film/spyfamilycode",
-			img:"https://s1.imagehub.cc/images/2023/04/05/37706bfe20e0454511bf6cd47510b5e3.webp",
+			img:"https://s1.imagehub.cc/images/2023/09/30/spyfamilycode.jpeg",
 			releaseDate:new Date(2023,12,22),
 			classify:"喜剧",
 			country:"日本",
 			state:"影片时长: x:xx:xx"
 		},
 		{
-			title:"青春期猪头少年不做小学美少女的梦",
+			title:"青春期猪头少年不会梦到小学美少女",
 			src:"https://www.musestar.cc/film/knapsack",
 			img:"https://s1.imagehub.cc/images/2023/09/29/knapsack.jpeg",
 			releaseDate:new Date(2023,12,1),
@@ -576,7 +576,7 @@ export const TheBangumiMoveList = ()=>{
 		{
 			title:"青春期猪头少年不会梦到娇怜外出妹",
 			src:"https://www.musestar.cc/film/odekake",
-			img:"https://s1.imagehub.cc/images/2023/04/05/d38900765088f33d2d83cbeb95342c0c.webp",
+			img:"https://s1.imagehub.cc/images/2023/09/30/odekake.jpeg",
 			releaseDate:new Date(2023,6,23),
 			classify:"剧情",
 			country:"日本",
