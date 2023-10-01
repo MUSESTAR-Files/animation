@@ -11,6 +11,15 @@ export const TheImgList = ()=> {
 export const TheBangumiList = ()=>{
 	return [
 		{
+			title:"缪斯星推荐-葬送的芙莉莲",
+			src:"https://www.musestar.cc/animation/FrierenBeyondJourneysEnd",
+			img:"https://s1.imagehub.cc/images/2023/09/29/FrierenBeyondJourneysEnd.jpeg",
+			releaseDate:new Date(2023,9,29),
+			classify:"剧情",
+			country:"日本",
+			state:"(更新中)总话数: 25"
+		},
+		{
 			title:"搜索动漫",
 			src:"http://search.musestar.cc/",
 			img:"https://api.anosu.top/api/?sort=all",
