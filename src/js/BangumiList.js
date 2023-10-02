@@ -20,6 +20,15 @@ export const TheBangumiList = ()=>{
 			state:"(更新中)总话数: 25"
 		},
 		{
+			title:"镇站之宝-魔女之旅",
+			src:"https://www.musestar.cc/animation/mnzl",
+			img:"https://s1.imagehub.cc/images/2022/12/04/e50bf5b9866cded55cfd9f4596d71a82.webp",
+			releaseDate:new Date(2020,10,2),
+			classify:"冒险",
+			country:"日本",
+			state:"(已完结)总话数: 12"
+		},
+		{
 			title:"搜索动漫",
 			src:"http://search.musestar.cc/",
 			img:"https://api.anosu.top/api/?sort=all",
