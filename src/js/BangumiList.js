@@ -42,7 +42,7 @@ export const TheBangumiList = ()=>{
 			src:"https://www.musestar.cc/animation/PLUTO",
 			img:"https://s1.imagehub.cc/images/2023/09/29/PLUTO.jpeg",
 			releaseDate:new Date(2023,10,26),
-			classify:"剧情",
+			classify:"科幻",
 			country:"日本",
 			state:"(未上映)总话数: 8"
 		},
@@ -72,6 +72,15 @@ export const TheBangumiList = ()=>{
 			classify:"奇幻",
 			country:"日本",
 			state:"(更新中)总话数: 未知"
+		},
+		{
+			title:"明日方舟：冬隐归路",
+			src:"https://www.musestar.cc/animation/Arknights2",
+			img:"https://s1.imagehub.cc/images/2023/10/03/Arknights2.png",
+			releaseDate:new Date(2023,10,6),
+			classify:"科幻",
+			country:"日本/中国大陆",
+			state:"(更新中)总话数: 8"
 		},
 		{
 			title:"经验丰富的你和经验为零的我交往的故事",
