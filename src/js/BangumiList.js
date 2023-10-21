@@ -53,7 +53,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,10,9),
 			classify:"奇幻",
 			country:"日本",
-			state:"(更新中)总话数: 未知"
+			state:"(更新中)总话数: 12"
 		},
 		{
 			title:"间谍过家家第二季",
@@ -278,7 +278,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,1,7),
 			classify:"战斗",
 			country:"日本",
-			state:"(更新中)总话数: 预计12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"别当欧尼酱了！",
