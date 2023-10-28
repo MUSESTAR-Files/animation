@@ -44,7 +44,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,10,26),
 			classify:"科幻",
 			country:"日本",
-			state:"(未上映)总话数: 8"
+			state:"(已完结)总话数: 8"
 		},
 		{
 			title:"星灵感应",
