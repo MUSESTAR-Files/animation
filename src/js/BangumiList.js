@@ -137,7 +137,7 @@ export const TheBangumiList = ()=>{
 			state:"(更新中)总话数: 25"
 		},
 		{
-			title:"2023最美的夜",
+			title:"BILIBILI MACRO LINK 2023",
 			src:"https://www.musestar.cc/teleplay/BML2023/01",
 			img:"https://s1.imagehub.cc/images/2023/11/03/f5fe54b0f1912636d3129f3cd8fe049e.jpeg",
 			releaseDate:new Date(2023,7,22),
@@ -628,7 +628,7 @@ export const TheBangumiMoveList = ()=>{
 			state:"影片时长: x:xx:xx"
 		},
 		{
-			title:"2023最美的夜",
+			title:"BILIBILI MACRO LINK 2023",
 			src:"https://www.musestar.cc/teleplay/BML2023/01",
 			img:"https://s1.imagehub.cc/images/2023/11/03/f5fe54b0f1912636d3129f3cd8fe049e.jpeg",
 			releaseDate:new Date(2023,7,22),
