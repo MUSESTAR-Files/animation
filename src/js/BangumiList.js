@@ -11,6 +11,15 @@ export const TheImgList = ()=> {
 export const TheBangumiList = ()=>{
 	return [
 		{
+			title:"2023最美的夜",
+			src:"https://www.musestar.cc/bilibili",
+			img:"https://s1.imagehub.cc/images/2023/11/03/78e5c26de77ef97fa2eb59d35c5f5fde.webp",
+			releaseDate:new Date(2023,12,31),
+			classify:"晚会",
+			country:"中国",
+			state:"2023年12月31日"
+		},
+		{
 			title:"缪斯星推荐-葬送的芙莉莲",
 			src:"https://www.musestar.cc/animation/FrierenBeyondJourneysEnd",
 			img:"https://s1.imagehub.cc/images/2023/09/29/FrierenBeyondJourneysEnd.jpeg",
@@ -79,7 +88,7 @@ export const TheBangumiList = ()=>{
 			img:"https://s1.imagehub.cc/images/2023/10/03/Arknights2.png",
 			releaseDate:new Date(2023,10,6),
 			classify:"科幻",
-			country:"日本/中国大陆",
+			country:"日本/中国",
 			state:"(更新中)总话数: 8"
 		},
 		{
@@ -564,6 +573,15 @@ export const TheBangumiList = ()=>{
 //下面是剧场列表
 export const TheBangumiMoveList = ()=>{
 	return [
+		{
+			title:"2023最美的夜",
+			src:"https://www.musestar.cc/bilibili",
+			img:"https://s1.imagehub.cc/images/2023/11/03/78e5c26de77ef97fa2eb59d35c5f5fde.webp",
+			releaseDate:new Date(2023,12,31),
+			classify:"晚会",
+			country:"中国",
+			state:"2023年12月31日"
+		},
 		{
 			title:"搜索剧场",
 			src:"http://search.musestar.cc/",
