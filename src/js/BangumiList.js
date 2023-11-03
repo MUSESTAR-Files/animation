@@ -137,6 +137,15 @@ export const TheBangumiList = ()=>{
 			state:"(更新中)总话数: 25"
 		},
 		{
+			title:"2023最美的夜",
+			src:"https://www.musestar.cc/teleplay/BML2023/01",
+			img:"https://s1.imagehub.cc/images/2023/11/03/f5fe54b0f1912636d3129f3cd8fe049e.jpeg",
+			releaseDate:new Date(2023,7,22),
+			classify:"演唱会",
+			country:"中国",
+			state:"全程时长：2:25:18"
+		},
+		{
 			title:"白圣女与黑牧师",
 			src:"https://www.musestar.cc/animation/shiroseijyo",
 			img:"https://s1.imagehub.cc/images/2023/08/05/shiroseijyo.webp",
@@ -617,6 +626,15 @@ export const TheBangumiMoveList = ()=>{
 			classify:"动作",
 			country:"日本",
 			state:"影片时长: x:xx:xx"
+		},
+		{
+			title:"2023最美的夜",
+			src:"https://www.musestar.cc/teleplay/BML2023/01",
+			img:"https://s1.imagehub.cc/images/2023/11/03/f5fe54b0f1912636d3129f3cd8fe049e.jpeg",
+			releaseDate:new Date(2023,7,22),
+			classify:"演唱会",
+			country:"中国",
+			state:"全程时长：2:25:18"
 		},
 		{
 			title:"青春期猪头少年不会梦到娇怜外出妹",
