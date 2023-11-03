@@ -143,7 +143,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,7,22),
 			classify:"演唱会",
 			country:"中国",
-			state:"全程时长：2:25:18"
+			state:"全程时长：3:25:18"
 		},
 		{
 			title:"白圣女与黑牧师",
@@ -634,7 +634,7 @@ export const TheBangumiMoveList = ()=>{
 			releaseDate:new Date(2023,7,22),
 			classify:"演唱会",
 			country:"中国",
-			state:"全程时长：2:25:18"
+			state:"全程时长：3:25:18"
 		},
 		{
 			title:"青春期猪头少年不会梦到娇怜外出妹",
