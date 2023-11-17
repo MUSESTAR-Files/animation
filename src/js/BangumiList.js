@@ -182,6 +182,15 @@ export const TheBangumiList = ()=>{
 			state:"(已完结)总话数: 12"
 		},
 		{
+			title:"咒术回战第二季",
+			src:"https://www.musestar.cc/animation/jujutsukaisen",
+			img:"https://s1.imagehub.cc/images/2023/11/17/143612347056c024eb042434de0c83b0.jpeg",
+			releaseDate:"2023,7,6",
+			classify:"奇幻",
+			country:"日本",
+			state:"(更新中)总话数: 23"
+		},
+		{
 			title:"命运/奇异赝品 黎明低语",
 			src:"https://www.musestar.cc/animation/fate",
 			img:"https://s1.imagehub.cc/images/2023/07/19/fate.webp",
