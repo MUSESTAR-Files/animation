@@ -228,7 +228,7 @@
     }
 
     .cardBoxMobile {
-        margin: 0 7px 7px;
+        margin: 0 5px 7px;
     }
 
     .noDisplay{

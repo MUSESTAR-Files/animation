@@ -6,8 +6,9 @@
 </script>
 
 <main>
-
+        <!--
         <button class="oneBtn fistBtn" class:isS={theS} on:click={()=>{theS=true}}>番剧/剧场</button>
+        -->
         <!--
         <button class="oneBtn lastBtn" class:isS={!theS} on:click={()=>{theS=false}}>剧场</button>
         -->
