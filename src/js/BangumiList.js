@@ -47,15 +47,6 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
-			title:"青春期猪头少年不会梦到娇怜外出妹",
-			src:"https://www.musestar.cc/film/odekake",
-			img:"https://s1.imagehub.cc/images/2023/09/30/odekake.jpeg",
-			releaseDate:"2023,11,29",
-			classify:"剧情",
-			country:"日本",
-			state:"影片时长: 1:13:53"
-		},
-		{
 			title:"进击的巨人 最终季 完结篇 后篇",
 			src:"https://www.musestar.cc/film/AttackonTitan",
 			img:"https://s1.imagehub.cc/images/2023/09/29/AttackonTitan.png",
@@ -216,6 +207,15 @@ export const TheBangumiList = ()=>{
 			classify:"奇幻",
 			country:"日本",
 			state:"(已完结)总话数: 12"
+		},
+		{
+			title:"青春期猪头少年不会梦到娇怜外出妹",
+			src:"https://www.musestar.cc/film/odekake",
+			img:"https://s1.imagehub.cc/images/2023/09/30/odekake.jpeg",
+			releaseDate:"2023,6,23",
+			classify:"剧情",
+			country:"日本",
+			state:"影片时长: 1:13:53"
 		},
 		{
 			title:"刀剑神域进击篇：暮色黄昏",
