@@ -26,7 +26,7 @@
 
 <main>
     <div class="mainBox">
-        <a href="https://www.musestar.cc/"><span>&copy;2 023 MUSESTAR</span></a>
+        <a href="https://www.musestar.cc/"><span>&copy; 2023 MUSESTAR</span></a>
         <a href="http://ninnana.top/"><span>本页设计 &copy; 2023 Ninnana</span></a>
         <a href="https://icp.gov.moe/?keyword=20226956"><span>萌ICP备 20226956 号</span></a>
         <a href="https://www.musestar.cc/sitemap.xml" class="webMap"><span>网站地图</span></a>
