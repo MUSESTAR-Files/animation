@@ -332,7 +332,7 @@ export const TheBangumiList = ()=>{
             releaseDate:"2023,1,1",
 			classify:"混剪",
             country:"中国",
-            state:"时长：5:04"
+            state:"视频时长：5:04"
         },
 		{
 			title:"铃芽之旅",
