@@ -53,7 +53,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2023,12,15",
 			classify:"套娃",
 			country:"中国",
-			state:"影片时长: 10:11"
+			state:"视频时长: 10:11"
 		},
 		{
 			title:"进击的巨人 最终季 完结篇 后篇",
