@@ -17,7 +17,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2023,9,29",
 			classify:"治愈",
 			country:"日本",
-			state:"(更新中)总话数: 25"
+			state:"(更新中)总话数: 28"
 		},
 		{
 			title:"镇站之宝-魔女之旅",
@@ -36,6 +36,15 @@ export const TheBangumiList = ()=>{
 			classify:"自定义",
 			country:"搜索",
 			state:"第三方播放源在线播放"
+		},
+		{
+			title:"葬送的芙莉莲 第二季度",
+			src:"https://www.musestar.cc/animation/FrierenBeyondJourneysEnd",
+			img:"https://s1.imagehub.cc/images/2023/12/29/01191f75f4d21914dd389a46f6c42e02.webp",
+			releaseDate:"2024,1,5",
+			classify:"治愈",
+			country:"日本",
+			state:"(更新中)总话数: 28"
 		},
 		{
 			title:"2023最美的夜",
@@ -80,7 +89,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2023,10,9",
 			classify:"奇幻",
 			country:"日本",
-			state:"(更新中)总话数: 12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"间谍过家家第二季",
@@ -107,7 +116,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2023,10,6",
 			classify:"科幻",
 			country:"日本/中国",
-			state:"(更新中)总话数: 8"
+			state:"(已完结)总话数: 8"
 		},
 		{
 			title:"经验丰富的你和经验为零的我交往的故事",
@@ -116,7 +125,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2023,10,6",
 			classify:"恋爱",
 			country:"日本",
-			state:"(更新中)总话数: 未知"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"想要成为影之实力者！第二季",
@@ -125,7 +134,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2023,10,4",
 			classify:"奇幻",
 			country:"日本",
-			state:"(更新中)总话数: 12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"赛马娘第三季",
@@ -134,7 +143,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2023,10,4",
 			classify:"剧情",
 			country:"日本",
-			state:"(更新中)总话数: 13"
+			state:"(已完结)总话数: 13"
 		},
 		{
 			title:"16bit的感动",
@@ -143,16 +152,16 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2023,10,4",
 			classify:"剧情",
 			country:"日本",
-			state:"(更新中)总话数: 未知"
+			state:"(已完结)总话数: 13"
 		},
 		{
-			title:"葬送的芙莉莲",
+			title:"葬送的芙莉莲 第一季度",
 			src:"https://www.musestar.cc/animation/FrierenBeyondJourneysEnd",
-			img:"https://s1.imagehub.cc/images/2023/09/29/FrierenBeyondJourneysEnd.jpeg",
+			img:"https://s1.imagehub.cc/images/2023/12/29/74550f2b6a424fd34b77d010533c98c2.webp",
 			releaseDate:"2023,9,29",
 			classify:"治愈",
 			country:"日本",
-			state:"(更新中)总话数: 25"
+			state:"(更新中)总话数: 28"
 		},
 		{
 			title:"BILIBILI MACRO LINK 2023",
@@ -179,7 +188,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2023,7,9",
 			classify:"喜剧",
 			country:"日本",
-			state:"(更新中)总话数: 12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"AI电子基因",
@@ -197,7 +206,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2023,7,6",
 			classify:"奇幻",
 			country:"日本",
-			state:"(更新中)总话数: 23"
+			state:"(已完结)总话数: 23"
 		},
 		{
 			title:"命运/奇异赝品 黎明低语",
