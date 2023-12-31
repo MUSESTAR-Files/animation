@@ -38,6 +38,33 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
+			title:"我心里危险的东西 第二季",
+			src:"https://www.musestar.cc/animation/bokuyaba2",
+			img:"https://s1.imagehub.cc/images/2024/01/01/3cd7cb69966453a0d3735754061ad6b3.jpeg",
+			releaseDate:"2024,1,6",
+			classify:"爱情",
+			country:"日本",
+			state:"(更新中)总话数: 13"
+		},
+		{
+			title:"物理魔法使马修 第二季",
+			src:"https://www.musestar.cc/animation/mashle2",
+			img:"https://s1.imagehub.cc/images/2024/01/01/871acb88d47e933d7952dc5266b3a12a.jpeg",
+			releaseDate:"2024,1,6",
+			classify:"魔法",
+			country:"日本",
+			state:"(更新中)总话数: 未知"
+		},
+		{
+			title:"青之驱魔师 第三季",
+			src:"https://www.musestar.cc/animation/aoex3",
+			img:"https://s1.imagehub.cc/images/2024/01/01/7478d34186ee6c8d88e3b6f25c91d8b8.jpeg",
+			releaseDate:"2024,1,6",
+			classify:"战斗",
+			country:"日本",
+			state:"(更新中)总话数: 未知"
+		},
+		{
 			title:"葬送的芙莉莲 第二季度",
 			src:"https://www.musestar.cc/animation/FrierenBeyondJourneysEnd",
 			img:"https://s1.imagehub.cc/images/2023/12/29/01191f75f4d21914dd389a46f6c42e02.webp",
@@ -47,13 +74,22 @@ export const TheBangumiList = ()=>{
 			state:"(更新中)总话数: 28"
 		},
 		{
-			title:"2023最美的夜",
-			src:"https://www.musestar.cc/bilibili",
-			img:"https://s1.imagehub.cc/images/2023/12/22/b35236da8ea5091d6d0a677ce67d2e0f.png",
-			releaseDate:"2023,12,31",
-			classify:"晚会",
-			country:"中国",
-			state:"2023年12月31日"
+			title:"欢迎来到实力至上主义的教室 第三季",
+			src:"https://www.musestar.cc/animation/youzitsu3",
+			img:"https://s1.imagehub.cc/images/2024/01/01/df528313e45323938cea5d674ddab251.jpeg",
+			releaseDate:"2024,1,3",
+			classify:"剧情",
+			country:"日本",
+			state:"(更新中)总话数: 13"
+		},
+		{
+			title:"憧憬成为魔法少女",
+			src:"https://www.musestar.cc/animation/mahoako",
+			img:"https://s1.imagehub.cc/images/2024/01/01/622396e5acdeffcc1307614f48396be5.webp",
+			releaseDate:"2024,1,3",
+			classify:"魔法",
+			country:"日本",
+			state:"(更新中)总话数: 13"
 		},
 		{
 			title:"2023热度年度总结",
@@ -107,7 +143,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2023,10,7",
 			classify:"奇幻",
 			country:"日本",
-			state:"(更新中)总话数: 未知"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"明日方舟：冬隐归路",
