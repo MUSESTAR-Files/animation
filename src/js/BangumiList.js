@@ -128,7 +128,7 @@ export const TheBangumiList = ()=>{
 			state:"(已完结)总话数: 12"
 		},
 		{
-			title:"间谍过家家第二季",
+			title:"间谍过家家 第二季",
 			src:"https://www.musestar.cc/animation/spyfamilys2",
 			img:"https://s1.imagehub.cc/images/2023/09/29/spyfamilys2.jpeg",
 			releaseDate:"2023,10,7",
@@ -164,7 +164,7 @@ export const TheBangumiList = ()=>{
 			state:"(已完结)总话数: 12"
 		},
 		{
-			title:"想要成为影之实力者！第二季",
+			title:"想要成为影之实力者! 第二季",
 			src:"https://www.musestar.cc/animation/TheEminenceinShadow2",
 			img:"https://s1.imagehub.cc/images/2023/09/29/TheEminenceinShadow2.jpeg",
 			releaseDate:"2023,10,4",
@@ -173,7 +173,7 @@ export const TheBangumiList = ()=>{
 			state:"(已完结)总话数: 12"
 		},
 		{
-			title:"赛马娘第三季",
+			title:"赛马娘 第三季",
 			src:"https://www.musestar.cc/animation/umamusume3",
 			img:"https://s1.imagehub.cc/images/2023/09/29/umamusume3.jpeg",
 			releaseDate:"2023,10,4",
@@ -236,7 +236,7 @@ export const TheBangumiList = ()=>{
 			state:"(已完结)总话数: 12"
 		},
 		{
-			title:"咒术回战第二季",
+			title:"咒术回战 第二季",
 			src:"https://www.musestar.cc/animation/jujutsukaisen",
 			img:"https://s1.imagehub.cc/images/2023/11/17/143612347056c024eb042434de0c83b0.jpeg",
 			releaseDate:"2023,7,6",
@@ -290,7 +290,7 @@ export const TheBangumiList = ()=>{
 			state:"(已完结)总话数: 11"
 		},
 		{
-			title:"因为太怕痛就全点防御力了第二季",
+			title:"因为太怕痛就全点防御力了 第二季",
 			src:"https://www.musestar.cc/animation/Itainohaiya",
 			img:"https://s1.imagehub.cc/images/2022/12/23/66f481396edc1415d1060b8747fafbd3.jpeg",
 			releaseDate:"2023,1,11",
