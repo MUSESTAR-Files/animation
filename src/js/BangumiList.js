@@ -119,6 +119,15 @@ export const TheBangumiList = ()=>{
 			state:"(更新中)总话数: 未知"
 		},
 		{
+			title:"挣扎吧，亚当君",
+			src:"https://www.musestar.cc/animation/adamkun",
+			img:"https://s1.imagehub.cc/images/2024/01/05/02d0df92076d28d663f6c1e024ea625f.jpeg",
+			releaseDate:"2023,12,26",
+			classify:"剧情",
+			country:"日本",
+			state:"(更新中)总话数: 8"
+		},
+		{
 			title:"2023热度年度总结",
 			src:"https://www.musestar.cc/teleplay/AnnualSummaryofPopularity/2023",
 			img:"https://s1.imagehub.cc/images/2023/12/16/4da10d5a770fd52080aa6375d9ac9d09.jpeg",
