@@ -74,6 +74,24 @@ export const TheBangumiList = ()=>{
 			state:"(更新中)总话数: 28"
 		},
 		{
+			title:"迷宫饭",
+			src:"https://www.musestar.cc/animation/DungeonMeshi",
+			img:"https://s1.imagehub.cc/images/2024/01/05/e64b847b52b0ecda1e98d1fd41c54362.png",
+			releaseDate:"2024,1,4",
+			classify:"奇幻",
+			country:"日本",
+			state:"(更新中)总话数: 24"
+		},
+		{
+			title:"魔都精兵的奴隶",
+			src:"https://www.musestar.cc/animation/MatoSeiheinoSlave",
+			img:"https://s1.imagehub.cc/images/2024/01/05/18a1e3aa9c54639e33d17a4c0abd6914.jpeg",
+			releaseDate:"2024,1,4",
+			classify:"异能",
+			country:"日本",
+			state:"(更新中)总话数: 未知"
+		},
+		{
 			title:"欢迎来到实力至上主义的教室 第三季",
 			src:"https://www.musestar.cc/animation/youzitsu3",
 			img:"https://s1.imagehub.cc/images/2024/01/01/df528313e45323938cea5d674ddab251.jpeg",
@@ -90,6 +108,15 @@ export const TheBangumiList = ()=>{
 			classify:"魔法",
 			country:"日本",
 			state:"(更新中)总话数: 13"
+		},
+		{
+			title:"异世界温泉开拓记",
+			src:"https://www.musestar.cc/animation/isekainoyu",
+			img:"https://s1.imagehub.cc/images/2024/01/05/7c9697d15b58f8ccf64ba70bd767cf8d.jpeg",
+			releaseDate:"2024,1,X",
+			classify:"穿越",
+			country:"日本",
+			state:"(更新中)总话数: 未知"
 		},
 		{
 			title:"2023热度年度总结",
