@@ -317,6 +317,15 @@ export const TheBangumiList = ()=>{
 			state:"影片时长: 1:40:30"
 		},
 		{
+			title:"三体2：黑暗森林（自制动画）",
+			src:"https://www.musestar.cc/animation/3body2zzdh",
+			img:"https://s1.imagehub.cc/images/2024/01/12/949a4fa1c27e905d49f16858aedb143d.jpeg",
+			releaseDate:"2023,4,15",
+			classify:"科幻",
+			country:"中国",
+			state:"(更新中)总话数: 未知"
+		},
+		{
 			title:"我推的孩子",
 			src:"https://www.musestar.cc/animation/IchigoProduction",
 			img:"https://s1.imagehub.cc/images/2023/04/14/a095977c44c9dc5232e57672d3eed48e.webp",
