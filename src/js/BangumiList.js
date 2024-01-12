@@ -1,10 +1,10 @@
 //下面是滚动图列表
 export const TheImgList = ()=> {
 	return [
-		{src: "https://s1.imagehub.cc/images/2023/09/29/spyfamilys2.jpeg", href: 'https://www.musestar.cc/animation/TheEminenceinShadow2'},
-		{src: "https://s1.imagehub.cc/images/2023/09/29/FrierenBeyondJourneysEnd.jpeg", href: 'https://www.musestar.cc/animation/spyfamilys2'},
-		{src: "https://s1.imagehub.cc/images/2023/09/29/hoshitele.jpeg", href: 'https://www.musestar.cc/animation/FrierenBeyondJourneysEnd'},
-		{src: "https://s1.imagehub.cc/images/2023/09/29/TheEminenceinShadow2.jpeg", href: 'https://www.musestar.cc/animation/hoshitele'},
+		{src: "https://s1.imagehub.cc/images/2024/01/01/3cd7cb69966453a0d3735754061ad6b3.jpeg", href: 'https://www.musestar.cc/animation/mahoako'},
+		{src: "https://s1.imagehub.cc/images/2023/09/29/FrierenBeyondJourneysEnd.jpeg", href: 'https://www.musestar.cc/animation/bokuyaba2'},
+		{src: "https://s1.imagehub.cc/images/2024/01/05/e64b847b52b0ecda1e98d1fd41c54362.png", href: 'https://www.musestar.cc/animation/FrierenBeyondJourneysEnd'},
+		{src: "https://s1.imagehub.cc/images/2024/01/01/622396e5acdeffcc1307614f48396be5.webp", href: 'https://www.musestar.cc/animation/DungeonMeshi'},
 	];
 }
 //下面是番剧列表
@@ -80,7 +80,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2024,1,4",
 			classify:"奇幻",
 			country:"日本",
-			state:"(更新中)总话数: 24"
+			state:"(更新中)总话数: 26"
 		},
 		{
 			title:"魔都精兵的奴隶",
@@ -113,7 +113,7 @@ export const TheBangumiList = ()=>{
 			title:"异世界温泉开拓记",
 			src:"https://www.musestar.cc/animation/isekainoyu",
 			img:"https://s1.imagehub.cc/images/2024/01/05/7c9697d15b58f8ccf64ba70bd767cf8d.jpeg",
-			releaseDate:"2024,1,X",
+			releaseDate:"2024,1,11",
 			classify:"穿越",
 			country:"日本",
 			state:"(更新中)总话数: 未知"
