@@ -38,6 +38,15 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
+			title:"我独自升级",
+			src:"https://www.musestar.cc/animation/sololeveling",
+			img:"https://s1.imagehub.cc/images/2024/01/20/d869c993b11a77cb9f5bee1a73290643.jpeg",
+			releaseDate:"2024,1,6",
+			classify:"奇幻",
+			country:"日本",
+			state:"(更新中)总话数: 12"
+		},
+		{
 			title:"我心里危险的东西 第二季",
 			src:"https://www.musestar.cc/animation/bokuyaba2",
 			img:"https://s1.imagehub.cc/images/2024/01/01/3cd7cb69966453a0d3735754061ad6b3.jpeg",
