@@ -101,20 +101,20 @@ export const TheBangumiList = ()=>{
 			state:"(更新中)总话数: 未知"
 		},
 		{
-			title:"欢迎来到实力至上主义的教室 第三季",
-			src:"https://www.musestar.cc/animation/youzitsu3",
-			img:"https://s1.imagehub.cc/images/2024/01/01/df528313e45323938cea5d674ddab251.jpeg",
-			releaseDate:"2024,1,3",
-			classify:"剧情",
-			country:"日本",
-			state:"(更新中)总话数: 13"
-		},
-		{
 			title:"憧憬成为魔法少女",
 			src:"https://www.musestar.cc/animation/mahoako",
 			img:"https://s1.imagehub.cc/images/2024/01/01/622396e5acdeffcc1307614f48396be5.webp",
 			releaseDate:"2024,1,3",
 			classify:"魔法",
+			country:"日本",
+			state:"(更新中)总话数: 13"
+		},
+		{
+			title:"欢迎来到实力至上主义的教室 第三季",
+			src:"https://www.musestar.cc/animation/youzitsu3",
+			img:"https://s1.imagehub.cc/images/2024/01/01/df528313e45323938cea5d674ddab251.jpeg",
+			releaseDate:"2024,1,3",
+			classify:"剧情",
 			country:"日本",
 			state:"(更新中)总话数: 13"
 		},
