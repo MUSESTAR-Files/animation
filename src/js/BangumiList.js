@@ -119,15 +119,6 @@ export const TheBangumiList = ()=>{
 			state:"(更新中)总话数: 13"
 		},
 		{
-			title:"异世界温泉开拓记",
-			src:"https://www.musestar.cc/animation/isekainoyu",
-			img:"https://s1.imagehub.cc/images/2024/01/05/7c9697d15b58f8ccf64ba70bd767cf8d.jpeg",
-			releaseDate:"2024,1,11",
-			classify:"穿越",
-			country:"日本",
-			state:"(更新中)总话数: 未知"
-		},
-		{
 			title:"挣扎吧，亚当君",
 			src:"https://www.musestar.cc/animation/adamkun",
 			img:"https://s1.imagehub.cc/images/2024/01/05/02d0df92076d28d663f6c1e024ea625f.jpeg",
