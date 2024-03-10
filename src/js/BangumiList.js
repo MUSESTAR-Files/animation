@@ -13,7 +13,7 @@ export const TheBangumiList = ()=>{
 		{
 			title:"缪斯星推荐-葬送的芙莉莲",
 			src:"https://www.musestar.cc/animation/FrierenBeyondJourneysEnd",
-			img:"https://s1.imagehub.cc/images/2023/09/29/FrierenBeyondJourneysEnd.jpeg",
+			img:"https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvcyFBaG41eGVsTXJIMldvemxpLXU3Zk95b25aWW5fP2U9c2V2ZWYx.gif",
 			releaseDate:"2023,9,29",
 			classify:"治愈",
 			country:"日本",
