@@ -125,7 +125,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2023,12,26",
 			classify:"剧情",
 			country:"日本",
-			state:"(更新中)总话数: 8"
+			state:"(已完结)总话数: 8"
 		},
 		{
 			title:"2023热度年度总结",
