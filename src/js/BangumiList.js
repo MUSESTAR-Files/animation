@@ -38,6 +38,92 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
+			title:"鬼灭之刃 第四季",
+			src:"https://www.musestar.cc/animation/DateALive5",
+			img:"https://s1.imagehub.cc/images/2024/04/03/79fa16f63e2969b1b008306464f147f7.png",
+			releaseDate:"2024,5,12",
+			classify:"奇幻",
+			country:"日本",
+			state:"(未上映)总话数: 未知"
+		},
+		{
+			title:"约会大作战 第五季",
+			src:"https://www.musestar.cc/animation/DateALive5",
+			img:"https://s1.imagehub.cc/images/2024/04/03/f540b1992cc0ac37ecfa29f5d02120a5.jpeg",
+			releaseDate:"2024,4,10",
+			classify:"奇幻",
+			country:"日本",
+			state:"(更新中)总话数: 12"
+		},
+		{
+			title:"为美好的世界献上祝福！ 第三季",
+			src:"https://www.musestar.cc/animation/konosuba3",
+			img:"https://s1.imagehub.cc/images/2024/04/03/1beffc411899eecd7a5085ead6859cb4.jpeg",
+			releaseDate:"2024,4,10",
+			classify:"奇幻",
+			country:"日本",
+			state:"(更新中)总话数: 未知"
+		},
+
+		{
+			title:"蔚蓝档案",
+			src:"https://www.musestar.cc/animation/bluearchive",
+			img:"https://s1.imagehub.cc/images/2024/04/03/6b5684f624a1868175d80415a9c0cde1.jpeg",
+			releaseDate:"2024,4,7",
+			classify:"战斗",
+			country:"日本",
+			state:"(更新中)总话数: 12"
+		},
+
+		{
+			title:"吹响吧上低音号 第三季",
+			src:"https://www.musestar.cc/animation/eupho3",
+			img:"https://s1.imagehub.cc/images/2024/04/03/42b5779131c2db83dcd86e9227db735c.jpeg",
+			releaseDate:"2024,4,7",
+			classify:"音乐",
+			country:"日本",
+			state:"(更新中)总话数: 13"
+		},
+
+		{
+			title:"无职转生Ⅱ Part 2",
+			src:"https://www.musestar.cc/animation/mushokutensei2",
+			img:"https://s1.imagehub.cc/images/2024/04/03/8c251884ab46fb4841eff6cac7e5dc2a.jpeg",
+			releaseDate:"2024,4,7",
+			classify:"奇幻",
+			country:"日本",
+			state:"(更新中)总话数: 12"
+		},
+
+		{
+			title:"关于我转生变成史莱姆这档事 第三季",
+			src:"https://www.musestar.cc/animation/tensura3",
+			img:"https://s1.imagehub.cc/images/2024/04/03/008457d41e75a09de6f0febdf3244c8f.jpeg",
+			releaseDate:"2024,4,5",
+			classify:"奇幻",
+			country:"日本",
+			state:"(更新中)总话数: 26"
+		},
+
+		{
+			title:"摇曳露营△ 第三季",
+			src:"https://www.musestar.cc/animation/yurucamp3",
+			img:"https://s1.imagehub.cc/images/2024/04/03/44fb806005b4827467eabaeb816b00f5.jpeg",
+			releaseDate:"2024,4,4",
+			classify:"日常",
+			country:"日本",
+			state:"(更新中)总话数: 12"
+		},
+		{
+			title:"转生七王子的魔法全解",
+			src:"https://www.musestar.cc/animation/dainanaoji",
+			img:"https://s1.imagehub.cc/images/2024/04/03/d12890223b77cc8d7bbd8b17d0dfeda6.jpeg",
+			releaseDate:"2024,4,2",
+			classify:"奇幻",
+			country:"日本",
+			state:"(更新中)总话数: 12"
+		},
+		{
 			title:"我独自升级",
 			src:"https://www.musestar.cc/animation/sololeveling",
 			img:"https://s1.imagehub.cc/images/2024/01/20/d869c993b11a77cb9f5bee1a73290643.jpeg",
