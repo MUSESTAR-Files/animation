@@ -17,7 +17,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2023,9,29",
 			classify:"治愈",
 			country:"日本",
-			state:"(更新中)总话数: 28"
+			state:"(已完结)总话数: 28"
 		},
 		{
 			title:"镇站之宝-魔女之旅",
@@ -44,7 +44,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2024,1,6",
 			classify:"奇幻",
 			country:"日本",
-			state:"(更新中)总话数: 12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"我心里危险的东西 第二季",
@@ -53,7 +53,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2024,1,6",
 			classify:"爱情",
 			country:"日本",
-			state:"(更新中)总话数: 13"
+			state:"(已完结)总话数: 13"
 		},
 		{
 			title:"物理魔法使马修 第二季",
@@ -62,7 +62,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2024,1,6",
 			classify:"魔法",
 			country:"日本",
-			state:"(更新中)总话数: 未知"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"青之驱魔师 第三季",
@@ -71,7 +71,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2024,1,6",
 			classify:"战斗",
 			country:"日本",
-			state:"(更新中)总话数: 未知"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"葬送的芙莉莲 第二季度",
@@ -80,7 +80,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2024,1,5",
 			classify:"治愈",
 			country:"日本",
-			state:"(更新中)总话数: 28"
+			state:"(已完结)总话数: 28"
 		},
 		{
 			title:"迷宫饭",
@@ -98,7 +98,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2024,1,4",
 			classify:"异能",
 			country:"日本",
-			state:"(更新中)总话数: 未知"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"憧憬成为魔法少女",
@@ -107,7 +107,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2024,1,3",
 			classify:"魔法",
 			country:"日本",
-			state:"(更新中)总话数: 13"
+			state:"(已完结)总话数: 13"
 		},
 		{
 			title:"欢迎来到实力至上主义的教室 第三季",
@@ -116,7 +116,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2024,1,3",
 			classify:"剧情",
 			country:"日本",
-			state:"(更新中)总话数: 13"
+			state:"(已完结)总话数: 13"
 		},
 		{
 			title:"挣扎吧，亚当君",
