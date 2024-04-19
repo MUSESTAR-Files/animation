@@ -62,19 +62,26 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2024,4,10",
 			classify:"奇幻",
 			country:"日本",
-			state:"(更新中)总话数: 未知"
+			state:"(更新中)总话数: 11"
 		},
-
 		{
-			title:"蔚蓝档案",
-			src:"https://www.musestar.cc/animation/bluearchive",
-			img:"https://s1.imagehub.cc/images/2024/04/03/6b5684f624a1868175d80415a9c0cde1.jpeg",
+			title:"夜晚的水母不会游泳",
+			src:"https://www.musestar.cc/animation/yorukura",
+			img:"https://s1.imagehub.cc/images/2024/04/19/94cb2ee4ca48478b87f684ecdfa74156.jpeg",
 			releaseDate:"2024,4,7",
-			classify:"战斗",
+			classify:"群像",
 			country:"日本",
 			state:"(更新中)总话数: 12"
 		},
-
+		{
+			title:"老夫老妻重返青春",
+			src:"https://www.musestar.cc/animation/jisanbasan",
+			img:"https://s1.imagehub.cc/images/2024/04/19/49e34e6279b976a6a3a4e3dd03fac6b0.jpeg",
+			releaseDate:"2024,4,7",
+			classify:"喜剧",
+			country:"日本",
+			state:"(更新中)总话数: 11"
+		},
 		{
 			title:"吹响吧上低音号 第三季",
 			src:"https://www.musestar.cc/animation/eupho3",
@@ -84,9 +91,17 @@ export const TheBangumiList = ()=>{
 			country:"日本",
 			state:"(更新中)总话数: 13"
 		},
-
 		{
-			title:"无职转生Ⅱ Part 2",
+			title:"蔚蓝档案",
+			src:"https://www.musestar.cc/animation/bluearchive",
+			img:"https://s1.imagehub.cc/images/2024/04/03/6b5684f624a1868175d80415a9c0cde1.jpeg",
+			releaseDate:"2024,4,7",
+			classify:"战斗",
+			country:"日本",
+			state:"(更新中)总话数: 12"
+		},
+		{
+			title:"无职转生Ⅱ Part2",
 			src:"https://www.musestar.cc/animation/mushokutensei2",
 			img:"https://s1.imagehub.cc/images/2024/04/03/8c251884ab46fb4841eff6cac7e5dc2a.jpeg",
 			releaseDate:"2024,4,7",
@@ -94,7 +109,6 @@ export const TheBangumiList = ()=>{
 			country:"日本",
 			state:"(更新中)总话数: 12"
 		},
-
 		{
 			title:"关于我转生变成史莱姆这档事 第三季",
 			src:"https://www.musestar.cc/animation/tensura3",
@@ -104,22 +118,12 @@ export const TheBangumiList = ()=>{
 			country:"日本",
 			state:"(更新中)总话数: 26"
 		},
-
 		{
 			title:"摇曳露营△ 第三季",
 			src:"https://www.musestar.cc/animation/yurucamp3",
 			img:"https://s1.imagehub.cc/images/2024/04/03/44fb806005b4827467eabaeb816b00f5.jpeg",
 			releaseDate:"2024,4,4",
 			classify:"日常",
-			country:"日本",
-			state:"(更新中)总话数: 12"
-		},
-		{
-			title:"转生七王子的魔法全解",
-			src:"https://www.musestar.cc/animation/dainanaoji",
-			img:"https://s1.imagehub.cc/images/2024/04/03/d12890223b77cc8d7bbd8b17d0dfeda6.jpeg",
-			releaseDate:"2024,4,2",
-			classify:"奇幻",
 			country:"日本",
 			state:"(更新中)总话数: 12"
 		},
