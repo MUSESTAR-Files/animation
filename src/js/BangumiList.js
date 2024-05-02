@@ -13,7 +13,7 @@ export const TheBangumiList = ()=>{
 		{
 			title:"缪斯星推荐-葬送的芙莉莲",
 			src:"https://www.musestar.cc/animation/FrierenBeyondJourneysEnd",
-			img:"https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvcyFBZ1hsWVR6S1JLMDBsUlZvWkdNN19FYWxpSnhvP2U9V1R5d0sz.gif",
+			img:"https://s1.imagehub.cc/images/2024/05/02/1d14882db74a04162c19f5a16052206a.jpeg",
 			releaseDate:"2023,9,29",
 			classify:"治愈",
 			country:"日本",
@@ -22,7 +22,7 @@ export const TheBangumiList = ()=>{
 		{
 			title:"镇站之宝-魔女之旅",
 			src:"https://www.musestar.cc/animation/mnzl",
-			img:"https://s1.imagehub.cc/images/2022/12/04/e50bf5b9866cded55cfd9f4596d71a82.webp",
+			img:"https://s1.imagehub.cc/images/2024/05/02/8ab51680d1d65f4af22338dff9712218.png",
 			releaseDate:"2020,10,2",
 			classify:"治愈",
 			country:"日本",
@@ -172,15 +172,15 @@ export const TheBangumiList = ()=>{
 			country:"日本",
 			state:"(已完结)总话数: 28"
 		},
-		{
-			title:"迷宫饭",
-			src:"https://www.musestar.cc/animation/DungeonMeshi",
-			img:"https://s1.imagehub.cc/images/2024/01/05/e64b847b52b0ecda1e98d1fd41c54362.png",
-			releaseDate:"2024,1,4",
-			classify:"奇幻",
-			country:"日本",
-			state:"(更新中)总话数: 26"
-		},
+	//	{
+	//		title:"迷宫饭",
+	//		src:"https://www.musestar.cc/animation/DungeonMeshi",
+	//		img:"https://s1.imagehub.cc/images/2024/01/05/e64b847b52b0ecda1e98d1fd41c54362.png",
+	//		releaseDate:"2024,1,4",
+	//		classify:"奇幻",
+	//		country:"日本",
+	//		state:"(更新中)总话数: 26"
+	//	},
 		{
 			title:"魔都精兵的奴隶",
 			src:"https://www.musestar.cc/animation/MatoSeiheinoSlave",
