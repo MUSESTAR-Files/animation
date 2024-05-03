@@ -1,10 +1,10 @@
 //下面是滚动图列表
 export const TheImgList = ()=> {
 	return [
-		{src: "https://s1.imagehub.cc/images/2024/01/01/3cd7cb69966453a0d3735754061ad6b3.jpeg", href: 'https://www.musestar.cc/animation/mahoako'},
-		{src: "https://s1.imagehub.cc/images/2023/09/29/FrierenBeyondJourneysEnd.jpeg", href: 'https://www.musestar.cc/animation/bokuyaba2'},
-		{src: "https://s1.imagehub.cc/images/2024/01/05/e64b847b52b0ecda1e98d1fd41c54362.png", href: 'https://www.musestar.cc/animation/FrierenBeyondJourneysEnd'},
-		{src: "https://s1.imagehub.cc/images/2024/01/01/622396e5acdeffcc1307614f48396be5.webp", href: 'https://www.musestar.cc/animation/DungeonMeshi'},
+		{src: "https://s1.imagehub.cc/images/2024/04/03/1beffc411899eecd7a5085ead6859cb4.jpeg", href: 'https://www.musestar.cc/animation/yurucamp3'},
+		{src: "https://s1.imagehub.cc/images/2024/04/19/94cb2ee4ca48478b87f684ecdfa74156.jpeg", href: 'https://www.musestar.cc/animation/konosuba3'},
+		{src: "https://s1.imagehub.cc/images/2024/04/03/8c251884ab46fb4841eff6cac7e5dc2a.jpeg", href: 'https://www.musestar.cc/animation/yorukura'},
+		{src: "https://s1.imagehub.cc/images/2024/04/03/44fb806005b4827467eabaeb816b00f5.jpeg", href: 'https://www.musestar.cc/animation/mushokutensei2'},
 	];
 }
 //下面是番剧列表
