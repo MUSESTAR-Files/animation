@@ -39,7 +39,7 @@ export const TheBangumiList = ()=>{
 		},
 		{
 			title:"鬼灭之刃 第四季 柱训练篇",
-			src:"https://www.musestar.cc/animation/DateALive5",
+			src:"https://www.musestar.cc/animation/kimetsu4",
 			img:"https://s1.imagehub.cc/images/2024/04/03/79fa16f63e2969b1b008306464f147f7.png",
 			releaseDate:"2024,5,12",
 			classify:"奇幻",
