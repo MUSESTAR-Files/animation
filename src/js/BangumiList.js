@@ -38,13 +38,13 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
-			title:"鬼灭之刃 第四季",
+			title:"鬼灭之刃 第四季 柱训练篇",
 			src:"https://www.musestar.cc/animation/DateALive5",
 			img:"https://s1.imagehub.cc/images/2024/04/03/79fa16f63e2969b1b008306464f147f7.png",
 			releaseDate:"2024,5,12",
 			classify:"奇幻",
 			country:"日本",
-			state:"(未上映)总话数: 未知"
+			state:"(更新中)总话数: 8"
 		},
 		{
 			title:"约会大作战 第五季",
