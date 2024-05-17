@@ -11,15 +11,6 @@ export const TheImgList = ()=> {
 export const TheBangumiList = ()=>{
 	return [
 		{
-			title:"缪斯星推荐-葬送的芙莉莲",
-			src:"https://www.musestar.cc/animation/FrierenBeyondJourneysEnd",
-			img:"https://s1.imagehub.cc/images/2024/05/02/1d14882db74a04162c19f5a16052206a.jpeg",
-			releaseDate:"2023,9,29",
-			classify:"治愈",
-			country:"日本",
-			state:"(已完结)总话数: 28"
-		},
-		{
 			title:"镇站之宝-魔女之旅",
 			src:"https://www.musestar.cc/animation/mnzl",
 			img:"https://s1.imagehub.cc/images/2024/05/02/8ab51680d1d65f4af22338dff9712218.png",
@@ -36,6 +27,15 @@ export const TheBangumiList = ()=>{
 			classify:"自定义",
 			country:"搜索",
 			state:"第三方播放源在线播放"
+		},
+		{
+			title:"BILIBILI MACRO LINK 2024",
+			src:"https://www.musestar.cc/teleplay/BML2024/01",
+			img:"https://s1.imagehub.cc/images/2024/05/17/4b23e8431d79fb013ca982e469d0d097.png",
+			releaseDate:"2024,7,13",
+			classify:"演唱会",
+			country:"中国",
+			state:"BILIBILI MACRO LINK 2024"
 		},
 		{
 			title:"鬼灭之刃 第四季 柱训练篇",
@@ -332,7 +332,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2023,7,22",
 			classify:"演唱会",
 			country:"中国",
-			state:"全程时长：3:25:18"
+			state:"BILIBILI MACRO LINK 2023"
 		},
 		{
 			title:"白圣女与黑牧师",
