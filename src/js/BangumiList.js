@@ -38,6 +38,24 @@ export const TheBangumiList = ()=>{
 			state:"BILIBILI MACRO LINK 2024"
 		},
 		{
+			title:"我推的孩子 第二季",
+			src:"https://www.musestar.cc/animation/oshinoko2",
+			img:"https://s1.imagehub.cc/images/2024/05/18/4374aa72786c4010df5145b3ca990f53.jpeg",
+			releaseDate:"2024,7",
+			classify:"奇幻",
+			country:"日本",
+			state:"(未上映)总话数: 未知"
+		},
+		{
+			title:"不时轻声地以俄语遮羞的邻座艾莉同学",
+			src:"https://www.musestar.cc/animation/roshidere",
+			img:"https://s1.imagehub.cc/images/2024/05/18/79b3a87e77a21f5bebc01183b2415dc9.webp",
+			releaseDate:"2024,7",
+			classify:"爱情",
+			country:"日本",
+			state:"(未上映)总话数: 未知"
+		},
+		{
 			title:"鬼灭之刃 第四季 柱训练篇",
 			src:"https://www.musestar.cc/animation/kimetsu4",
 			img:"https://s1.imagehub.cc/images/2024/04/03/79fa16f63e2969b1b008306464f147f7.png",
