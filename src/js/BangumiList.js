@@ -40,7 +40,7 @@ export const TheBangumiList = ()=>{
 		{
 			title:"我推的孩子 第二季",
 			src:"https://www.musestar.cc/animation/oshinoko2",
-			img:"https://s1.imagehub.cc/images/2024/05/18/4374aa72786c4010df5145b3ca990f53.jpeg",
+			img:"https://s1.imagehub.cc/images/2024/07/04/8a1f0c7aa2ebf555e0666fbbae764df6.jpeg",
 			releaseDate:"2024,7",
 			classify:"奇幻",
 			country:"日本",
