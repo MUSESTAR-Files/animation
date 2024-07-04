@@ -44,7 +44,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2024,7",
 			classify:"奇幻",
 			country:"日本",
-			state:"(未上映)总话数: 未知"
+			state:"(更新中)总话数: 12"
 		},
 		{
 			title:"不时轻声地以俄语遮羞的邻座艾莉同学",
@@ -53,7 +53,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2024,7",
 			classify:"爱情",
 			country:"日本",
-			state:"(未上映)总话数: 未知"
+			state:"(更新中)总话数: 12"
 		},
 		{
 			title:"鬼灭之刃 第四季 柱训练篇",
@@ -62,7 +62,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2024,5,12",
 			classify:"奇幻",
 			country:"日本",
-			state:"(更新中)总话数: 8"
+			state:"(已完结)总话数: 8"
 		},
 		{
 			title:"约会大作战 第五季",
@@ -71,7 +71,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2024,4,10",
 			classify:"奇幻",
 			country:"日本",
-			state:"(更新中)总话数: 12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"为美好的世界献上祝福！ 第三季",
@@ -80,7 +80,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2024,4,10",
 			classify:"奇幻",
 			country:"日本",
-			state:"(更新中)总话数: 11"
+			state:"(已完结)总话数: 11"
 		},
 		{
 			title:"夜晚的水母不会游泳",
@@ -89,7 +89,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2024,4,7",
 			classify:"群像",
 			country:"日本",
-			state:"(更新中)总话数: 12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"老夫老妻重返青春",
@@ -98,7 +98,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2024,4,7",
 			classify:"喜剧",
 			country:"日本",
-			state:"(更新中)总话数: 11"
+			state:"(已完结)总话数: 11"
 		},
 		{
 			title:"吹响吧上低音号 第三季",
@@ -107,7 +107,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2024,4,7",
 			classify:"音乐",
 			country:"日本",
-			state:"(更新中)总话数: 13"
+			state:"(已完结)总话数: 13"
 		},
 		{
 			title:"蔚蓝档案",
@@ -116,7 +116,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2024,4,7",
 			classify:"战斗",
 			country:"日本",
-			state:"(更新中)总话数: 12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"无职转生Ⅱ Part2",
@@ -125,16 +125,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2024,4,7",
 			classify:"奇幻",
 			country:"日本",
-			state:"(更新中)总话数: 12"
-		},
-		{
-			title:"关于我转生变成史莱姆这档事 第三季",
-			src:"https://www.musestar.cc/animation/tensura3",
-			img:"https://s1.imagehub.cc/images/2024/04/03/008457d41e75a09de6f0febdf3244c8f.jpeg",
-			releaseDate:"2024,4,5",
-			classify:"奇幻",
-			country:"日本",
-			state:"(更新中)总话数: 26"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"摇曳露营△ 第三季",
@@ -143,7 +134,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2024,4,4",
 			classify:"日常",
 			country:"日本",
-			state:"(更新中)总话数: 12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"我独自升级",
@@ -190,15 +181,6 @@ export const TheBangumiList = ()=>{
 			country:"日本",
 			state:"(已完结)总话数: 28"
 		},
-	//	{
-	//		title:"迷宫饭",
-	//		src:"https://www.musestar.cc/animation/DungeonMeshi",
-	//		img:"https://s1.imagehub.cc/images/2024/01/05/e64b847b52b0ecda1e98d1fd41c54362.png",
-	//		releaseDate:"2024,1,4",
-	//		classify:"奇幻",
-	//		country:"日本",
-	//		state:"(更新中)总话数: 26"
-	//	},
 		{
 			title:"魔都精兵的奴隶",
 			src:"https://www.musestar.cc/animation/MatoSeiheinoSlave",
@@ -243,6 +225,15 @@ export const TheBangumiList = ()=>{
 			classify:"套娃",
 			country:"中国",
 			state:"视频时长: 10:11"
+		},
+		{
+			title:"青春猪头少年不会梦到红书包女孩",
+			src:"https://www.musestar.cc/film/knapsack",
+			img:"https://s1.imagehub.cc/images/2024/07/04/af4907bcf6d53279c6aeeda32a3203f5.jpeg",
+			releaseDate:"2023,12,1",
+			classify:"剧情",
+			country:"日本",
+			state:"影片时长: 1:14:54"
 		},
 		{
 			title:"进击的巨人 最终季 完结篇 后篇",
