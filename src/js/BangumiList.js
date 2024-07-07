@@ -53,7 +53,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2024,7,3",
 			classify:"奇幻",
 			country:"日本",
-			state:"(更新中)总话数: 12"
+			state:"(更新中)总话数: 23"
 		},
 		{
 			title:"不时轻声地以俄语遮羞的邻座艾莉同学",
@@ -423,15 +423,6 @@ export const TheBangumiList = ()=>{
 			classify:"动作",
 			country:"日本",
 			state:"影片时长: 1:40:30"
-		},
-		{
-			title:"三体2：黑暗森林（自制动画）",
-			src:"https://www.musestar.cc/teleplay/3body2zzdh",
-			img:"https://s1.imagehub.cc/images/2024/01/12/949a4fa1c27e905d49f16858aedb143d.jpeg",
-			releaseDate:"2023,4,15",
-			classify:"科幻",
-			country:"中国",
-			state:"(更新中)总话数: 未知"
 		},
 		{
 			title:"我推的孩子",
