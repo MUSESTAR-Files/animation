@@ -1,10 +1,10 @@
 //下面是滚动图列表
 export const TheImgList = ()=> {
 	return [
-		{src: "https://s1.imagehub.cc/images/2024/04/03/1beffc411899eecd7a5085ead6859cb4.jpeg", href: 'https://www.musestar.cc/animation/yurucamp3'},
-		{src: "https://s1.imagehub.cc/images/2024/04/19/94cb2ee4ca48478b87f684ecdfa74156.jpeg", href: 'https://www.musestar.cc/animation/konosuba3'},
-		{src: "https://s1.imagehub.cc/images/2024/04/03/8c251884ab46fb4841eff6cac7e5dc2a.jpeg", href: 'https://www.musestar.cc/animation/yorukura'},
-		{src: "https://s1.imagehub.cc/images/2024/04/03/44fb806005b4827467eabaeb816b00f5.jpeg", href: 'https://www.musestar.cc/animation/mushokutensei2'},
+		{src: "https://s1.imagehub.cc/images/2024/07/07/f02eaaca3d092dfbf69a4ad9974683c9.jpeg", href: 'https://www.musestar.cc/teleplay/BML2024/01'},
+		{src: "https://s1.imagehub.cc/images/2024/07/04/8a1f0c7aa2ebf555e0666fbbae764df6.jpeg", href: 'https://www.musestar.cc/animation/shikanoko'},
+		{src: "https://s1.imagehub.cc/images/2024/05/18/79b3a87e77a21f5bebc01183b2415dc9.webp", href: 'https://www.musestar.cc/animation/oshinoko2'},
+		{src: "https://s1.imagehub.cc/images/2024/06/15/566f287884202f982c16618804792d65.jpeg", href: 'https://www.musestar.cc/animation/roshidere'},
 	];
 }
 //下面是番剧列表
@@ -38,10 +38,19 @@ export const TheBangumiList = ()=>{
 			state:"BILIBILI MACRO LINK 2024"
 		},
 		{
+			title:"鹿乃子乃子虎视眈眈",
+			src:"https://www.musestar.cc/animation/shikanoko",
+			img:"https://s1.imagehub.cc/images/2024/07/07/f02eaaca3d092dfbf69a4ad9974683c9.jpeg",
+			releaseDate:"2024,7,3",
+			classify:"喜剧",
+			country:"日本",
+			state:"(更新中)总话数: 12"
+		},
+		{
 			title:"我推的孩子 第二季",
 			src:"https://www.musestar.cc/animation/oshinoko2",
 			img:"https://s1.imagehub.cc/images/2024/07/04/8a1f0c7aa2ebf555e0666fbbae764df6.jpeg",
-			releaseDate:"2024,7",
+			releaseDate:"2024,7,3",
 			classify:"奇幻",
 			country:"日本",
 			state:"(更新中)总话数: 12"
@@ -50,7 +59,7 @@ export const TheBangumiList = ()=>{
 			title:"不时轻声地以俄语遮羞的邻座艾莉同学",
 			src:"https://www.musestar.cc/animation/roshidere",
 			img:"https://s1.imagehub.cc/images/2024/05/18/79b3a87e77a21f5bebc01183b2415dc9.webp",
-			releaseDate:"2024,7",
+			releaseDate:"2024,7,3",
 			classify:"爱情",
 			country:"日本",
 			state:"(更新中)总话数: 12"
