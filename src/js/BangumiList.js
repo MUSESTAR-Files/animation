@@ -1,7 +1,7 @@
 //下面是滚动图列表
 export const TheImgList = ()=> {
 	return [
-		{src: "https://s1.imagehub.cc/images/2024/07/07/f02eaaca3d092dfbf69a4ad9974683c9.jpeg", href: 'https://www.musestar.cc/teleplay/BML2024/01'},
+		{src: "https://s1.imagehub.cc/images/2024/07/07/f02eaaca3d092dfbf69a4ad9974683c9.jpeg", href: 'https://www.musestar.cc/teleplay/BML2024/00'},
 		{src: "https://s1.imagehub.cc/images/2024/07/04/8a1f0c7aa2ebf555e0666fbbae764df6.jpeg", href: 'https://www.musestar.cc/animation/shikanoko'},
 		{src: "https://s1.imagehub.cc/images/2024/05/18/79b3a87e77a21f5bebc01183b2415dc9.webp", href: 'https://www.musestar.cc/animation/oshinoko2'},
 		{src: "https://s1.imagehub.cc/images/2024/06/15/566f287884202f982c16618804792d65.jpeg", href: 'https://www.musestar.cc/animation/roshidere'},
@@ -30,7 +30,7 @@ export const TheBangumiList = ()=>{
 		},
 		{
 			title:"BILIBILI MACRO LINK 2024",
-			src:"https://www.musestar.cc/teleplay/BML2024/01",
+			src:"https://www.musestar.cc/teleplay/BML2024/00",
 			img:"https://s1.imagehub.cc/images/2024/06/15/566f287884202f982c16618804792d65.jpeg",
 			releaseDate:"2024,7,13",
 			classify:"演唱会",
