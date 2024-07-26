@@ -1,10 +1,10 @@
 //下面是滚动图列表
 export const TheImgList = ()=> {
 	return [
-		{src: "https://s1.imagehub.cc/images/2024/07/07/f02eaaca3d092dfbf69a4ad9974683c9.jpeg", href: 'https://www.musestar.cc/teleplay/BML2024/00'},
+		{src: "https://s1.imagehub.cc/images/2024/07/07/f02eaaca3d092dfbf69a4ad9974683c9.jpeg", href: 'https://www.musestar.cc/animation/makeine'},
 		{src: "https://s1.imagehub.cc/images/2024/07/04/8a1f0c7aa2ebf555e0666fbbae764df6.jpeg", href: 'https://www.musestar.cc/animation/shikanoko'},
 		{src: "https://s1.imagehub.cc/images/2024/05/18/79b3a87e77a21f5bebc01183b2415dc9.webp", href: 'https://www.musestar.cc/animation/oshinoko2'},
-		{src: "https://s1.imagehub.cc/images/2024/06/15/566f287884202f982c16618804792d65.jpeg", href: 'https://www.musestar.cc/animation/roshidere'},
+		{src: "https://s1.imagehub.cc/images/2024/07/26/02fa0219d89963cdffa13b4d18ccaf3c.jpeg", href: 'https://www.musestar.cc/animation/roshidere'},
 	];
 }
 //下面是番剧列表
@@ -27,6 +27,15 @@ export const TheBangumiList = ()=>{
 			classify:"自定义",
 			country:"搜索",
 			state:"第三方播放源在线播放"
+		},
+		{
+			title:"败北女角太多了！",
+			src:"https://www.musestar.cc/animation/makeine",
+			img:"https://s1.imagehub.cc/images/2024/07/26/02fa0219d89963cdffa13b4d18ccaf3c.jpeg",
+			releaseDate:"2024,7,14",
+			classify:"喜剧",
+			country:"日本",
+			state:"(更新中)总话数: 12"
 		},
 		{
 			title:"BILIBILI MACRO LINK 2024",
