@@ -29,7 +29,7 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
-			title:"败北女角太多了！",
+			title:"败犬女主太多了！",
 			src:"https://www.musestar.cc/animation/makeine",
 			img:"https://s1.imagehub.cc/images/2024/07/26/02fa0219d89963cdffa13b4d18ccaf3c.jpeg",
 			releaseDate:"2024,7,14",
