@@ -39,7 +39,7 @@ export const TheBangumiList = ()=>{
 		},
 		{
 			title:"BILIBILI MACRO LINK 2024",
-			src:"/teleplay/BML2024/100",
+			src:"/https://www.musestar.cc/teleplay/BML2024/00",
 			img:"https://s1.imagehub.cc/images/2024/06/15/566f287884202f982c16618804792d65.jpeg",
 			releaseDate:"2024,7,13",
 			classify:"演唱会",
