@@ -15,7 +15,7 @@
             <a href="/movie">缪斯星影视</a>
         </div>
         <div class="inTopA">
-            <a href="http://search.musestar.cc/">缪斯星搜索</a>
+            <a href="https://video.musestar.cc/">缪斯星搜索</a>
         </div>
         <div class="inTopA inTopLast">
             <a href="/musestar">缪斯星官方</a>
