@@ -29,6 +29,15 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
+			title:"Re:从零开始的异世界生活 第三季",
+			src:"/animation/re0s3",
+			img:"https://s1.imagehub.cc/images/2024/08/18/69a776cb5468e12bb38866b0f7332b0d.jpg",
+			releaseDate:"2024,10",
+			classify:"奇幻",
+			country:"日本",
+			state:"(更新中)总话数: 未知"
+		},
+		{
 			title:"败犬女主太多了！",
 			src:"/animation/makeine",
 			img:"https://s1.imagehub.cc/images/2024/07/26/02fa0219d89963cdffa13b4d18ccaf3c.jpeg",
@@ -90,6 +99,15 @@ export const TheBangumiList = ()=>{
 			classify:"奇幻",
 			country:"日本",
 			state:"(已完结)总话数: 8"
+		},
+		{
+			title:"间谍过家家 代号：白",
+			src:"/film/spyfamilycode",
+			img:"https://s1.imagehub.cc/images/2023/09/30/spyfamilycode.jpeg",
+			releaseDate:"2023,12,22",
+			classify:"喜剧",
+			country:"日本",
+			state:"影片时长: 1:50:01"
 		},
 		{
 			title:"约会大作战 第五季",
