@@ -104,7 +104,7 @@ export const TheBangumiList = ()=>{
 			title:"间谍过家家 代号：白",
 			src:"/film/spyfamilycode",
 			img:"https://s1.imagehub.cc/images/2023/09/30/spyfamilycode.jpeg",
-			releaseDate:"2023,12,22",
+			releaseDate:"2023,4,30",
 			classify:"喜剧",
 			country:"日本",
 			state:"影片时长: 1:50:01"
@@ -621,7 +621,7 @@ export const TheBangumiMoveList = ()=>{
 			title:"间谍过家家 代号：白",
 			src:"/film/spyfamilycode",
 			img:"https://s1.imagehub.cc/images/2023/09/30/spyfamilycode.jpeg",
-			releaseDate:"2023,12,22",
+			releaseDate:"2023,4,30",
 			classify:"喜剧",
 			country:"日本",
 			state:"影片时长: x:xx:xx"
