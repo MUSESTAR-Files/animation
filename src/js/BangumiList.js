@@ -38,6 +38,15 @@ export const TheBangumiList = ()=>{
 			state:"(更新中)总话数: 未知"
 		},
 		{
+			title:"通往夏天的隧道,再见的出口",
+			src:"/film/NatsuenoTunnel",
+			img:"https://s1.imagehub.cc/images/2024/08/19/b68cbf5ff34a36fe57d3ce0d06e4870a.png",
+			releaseDate:"2022,8,30",
+			classify:"恋爱",
+			country:"日本",
+			state:"影片时长: 1:22:39"
+		},
+		{
 			title:"败犬女主太多了！",
 			src:"/animation/makeine",
 			img:"https://s1.imagehub.cc/images/2024/07/26/02fa0219d89963cdffa13b4d18ccaf3c.jpeg",
@@ -569,15 +578,6 @@ export const TheBangumiList = ()=>{
 			state:"影片时长: 2:01:28"
 		},
 		{
-			title:"通往夏天的隧道,再见的出口",
-			src:"/film/NatsuenoTunnel",
-			img:"https://s1.imagehub.cc/images/2022/12/04/3315a902ab17bfb4922cf350437e9877.webp",
-			releaseDate:"2022,9,9",
-			classify:"恋爱",
-			country:"日本",
-			state:"影片时长: 1:22:39"
-		},
-		{
 			title:"你好世界",
 			src:"/film/HelloWorld",
 			img:"https://s1.imagehub.cc/images/2022/12/04/ab787edbfcdc71970465ac43e1bf36dd.webp",
@@ -599,42 +599,6 @@ export const TheBangumiList = ()=>{
 //下面是剧场列表
 export const TheBangumiMoveList = ()=>{
 	return [
-		{
-			title:"2023最美的夜",
-			src:"/bilibili",
-			img:"https://s1.imagehub.cc/images/2023/12/22/b35236da8ea5091d6d0a677ce67d2e0f.png",
-			releaseDate:"2023,12,31",
-			classify:"晚会",
-			country:"中国",
-			state:"2023年12月31日"
-		},
-		{
-			title:"搜索剧场",
-			src:"https://video.musestar.cc/",
-			img:"https://api.anosu.top/api/?sort=all",
-			releaseDate:"2024,1,1",
-			classify:"自定义",
-			country:"搜索",
-			state:"第三方播放源在线播放"
-		},
-		{
-			title:"间谍过家家 代号：白",
-			src:"/film/spyfamilycode",
-			img:"https://s1.imagehub.cc/images/2023/09/30/spyfamilycode.jpeg",
-			releaseDate:"2023,4,30",
-			classify:"喜剧",
-			country:"日本",
-			state:"影片时长: x:xx:xx"
-		},
-		{
-			title:"青春期猪头少年不会梦到小学美少女",
-			src:"/film/knapsack",
-			img:"https://s1.imagehub.cc/images/2023/09/29/knapsack.jpeg",
-			releaseDate:"2023,12,1",
-			classify:"剧情",
-			country:"日本",
-			state:"影片时长: x:xx:xx"
-		},
 
 	]
 }
