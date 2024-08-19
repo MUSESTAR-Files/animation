@@ -41,7 +41,7 @@ export const TheBangumiList = ()=>{
 			title:"通往夏天的隧道,再见的出口",
 			src:"/film/NatsuenoTunnel",
 			img:"https://s1.imagehub.cc/images/2024/08/19/b68cbf5ff34a36fe57d3ce0d06e4870a.png",
-			releaseDate:"2022,8,30",
+			releaseDate:"2024,8,30",
 			classify:"恋爱",
 			country:"日本",
 			state:"影片时长: 1:22:39"
