@@ -2,7 +2,7 @@
 export const TheImgList = ()=> {
 	return [
 		{src: "https://s1.imagehub.cc/images/2024/07/07/f02eaaca3d092dfbf69a4ad9974683c9.jpeg", href: '/animation/makeine'},
-		{src: "https://s1.imagehub.cc/images/2024/07/04/8a1f0c7aa2ebf555e0666fbbae764df6.jpeg", href: '/animation/shikanoko'},
+		{src: "https://s1.imagehub.cc/images/2024/08/22/83ac04dacb9b4d9a4c68403f2edf1de0.jpg", href: '/animation/shikanoko'},
 		{src: "https://s1.imagehub.cc/images/2024/05/18/79b3a87e77a21f5bebc01183b2415dc9.webp", href: '/animation/oshinoko2'},
 		{src: "https://s1.imagehub.cc/images/2024/07/26/02fa0219d89963cdffa13b4d18ccaf3c.jpeg", href: '/animation/roshidere'},
 	];
@@ -85,7 +85,7 @@ export const TheBangumiList = ()=>{
 		{
 			title:"我推的孩子 第二季",
 			src:"/animation/oshinoko2",
-			img:"https://s1.imagehub.cc/images/2024/07/04/8a1f0c7aa2ebf555e0666fbbae764df6.jpeg",
+			img:"https://s1.imagehub.cc/images/2024/08/22/83ac04dacb9b4d9a4c68403f2edf1de0.jpg",
 			releaseDate:"2024,7,3",
 			classify:"奇幻",
 			country:"日本",
