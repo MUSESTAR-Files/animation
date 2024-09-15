@@ -38,13 +38,13 @@ export const TheBangumiList = ()=>{
 			state:"(更新中)总话数: 未知"
 		},
 		{
-			title:"冰火歌会漫游季2024",
+			title:"冰火歌会2024漫游季",
 			src:"/teleplay/BHGH2024",
 			img:"https://s1.imagehub.cc/images/2024/09/15/fc0d5b23e477d9973dbc3898181baccf.png",
 			releaseDate:"2024,9,15",
 			classify:"虚拟演唱会",
 			country:"中国",
-			state:"冰火歌会漫游季2024"
+			state:"冰火歌会2024漫游季"
 		},
 		{
 			title:"通往夏天的隧道,再见的出口",
