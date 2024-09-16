@@ -155,47 +155,11 @@ export const TheBangumiList = ()=>{
 			state:"(已完结)总话数: 12"
 		},
 		{
-			title:"老夫老妻重返青春",
-			src:"/animation/jisanbasan",
-			img:"https://s1.imagehub.cc/images/2024/04/19/49e34e6279b976a6a3a4e3dd03fac6b0.jpeg",
-			releaseDate:"2024,4,7",
-			classify:"喜剧",
-			country:"日本",
-			state:"(已完结)总话数: 11"
-		},
-		{
-			title:"吹响吧上低音号 第三季",
-			src:"/animation/eupho3",
-			img:"https://s1.imagehub.cc/images/2024/04/03/42b5779131c2db83dcd86e9227db735c.jpeg",
-			releaseDate:"2024,4,7",
-			classify:"音乐",
-			country:"日本",
-			state:"(已完结)总话数: 13"
-		},
-		{
-			title:"蔚蓝档案",
-			src:"/animation/bluearchive",
-			img:"https://s1.imagehub.cc/images/2024/04/03/6b5684f624a1868175d80415a9c0cde1.jpeg",
-			releaseDate:"2024,4,7",
-			classify:"战斗",
-			country:"日本",
-			state:"(已完结)总话数: 12"
-		},
-		{
 			title:"无职转生Ⅱ Part2",
 			src:"/animation/mushokutensei2",
 			img:"https://s1.imagehub.cc/images/2024/04/03/8c251884ab46fb4841eff6cac7e5dc2a.jpeg",
 			releaseDate:"2024,4,7",
 			classify:"奇幻",
-			country:"日本",
-			state:"(已完结)总话数: 12"
-		},
-		{
-			title:"摇曳露营△ 第三季",
-			src:"/animation/yurucamp3",
-			img:"https://s1.imagehub.cc/images/2024/04/03/44fb806005b4827467eabaeb816b00f5.jpeg",
-			releaseDate:"2024,4,4",
-			classify:"日常",
 			country:"日本",
 			state:"(已完结)总话数: 12"
 		},
@@ -209,33 +173,6 @@ export const TheBangumiList = ()=>{
 			state:"(已完结)总话数: 12"
 		},
 		{
-			title:"我心里危险的东西 第二季",
-			src:"/animation/bokuyaba2",
-			img:"https://s1.imagehub.cc/images/2024/01/01/3cd7cb69966453a0d3735754061ad6b3.jpeg",
-			releaseDate:"2024,1,6",
-			classify:"爱情",
-			country:"日本",
-			state:"(已完结)总话数: 13"
-		},
-		{
-			title:"物理魔法使马修 第二季",
-			src:"/animation/mashle2",
-			img:"https://s1.imagehub.cc/images/2024/01/01/871acb88d47e933d7952dc5266b3a12a.jpeg",
-			releaseDate:"2024,1,6",
-			classify:"魔法",
-			country:"日本",
-			state:"(已完结)总话数: 12"
-		},
-		{
-			title:"青之驱魔师 第三季",
-			src:"/animation/aoex3",
-			img:"https://s1.imagehub.cc/images/2024/01/01/7478d34186ee6c8d88e3b6f25c91d8b8.jpeg",
-			releaseDate:"2024,1,6",
-			classify:"战斗",
-			country:"日本",
-			state:"(已完结)总话数: 12"
-		},
-		{
 			title:"葬送的芙莉莲 第二季度",
 			src:"/animation/FrierenBeyondJourneysEnd",
 			img:"https://s1.imagehub.cc/images/2023/12/29/01191f75f4d21914dd389a46f6c42e02.webp",
@@ -243,15 +180,6 @@ export const TheBangumiList = ()=>{
 			classify:"治愈",
 			country:"日本",
 			state:"(已完结)总话数: 28"
-		},
-		{
-			title:"魔都精兵的奴隶",
-			src:"/animation/MatoSeiheinoSlave",
-			img:"https://s1.imagehub.cc/images/2024/01/05/18a1e3aa9c54639e33d17a4c0abd6914.jpeg",
-			releaseDate:"2024,1,4",
-			classify:"异能",
-			country:"日本",
-			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"憧憬成为魔法少女",
@@ -272,15 +200,6 @@ export const TheBangumiList = ()=>{
 			state:"(已完结)总话数: 13"
 		},
 		{
-			title:"挣扎吧，亚当君",
-			src:"/animation/adamkun",
-			img:"https://s1.imagehub.cc/images/2024/01/05/02d0df92076d28d663f6c1e024ea625f.jpeg",
-			releaseDate:"2023,12,26",
-			classify:"剧情",
-			country:"日本",
-			state:"(已完结)总话数: 8"
-		},
-		{
 			title:"2023热度年度总结",
 			src:"/teleplay/AnnualSummaryofPopularity/2023",
 			img:"https://s1.imagehub.cc/images/2023/12/16/4da10d5a770fd52080aa6375d9ac9d09.jpeg",
@@ -297,33 +216,6 @@ export const TheBangumiList = ()=>{
 			classify:"剧情",
 			country:"日本",
 			state:"影片时长: 1:14:54"
-		},
-		{
-			title:"进击的巨人 最终季 完结篇 后篇",
-			src:"/film/AttackonTitan",
-			img:"https://s1.imagehub.cc/images/2023/09/29/AttackonTitan.png",
-			releaseDate:"2023,11,4",
-			classify:"动作",
-			country:"日本",
-			state:"影片时长: 1:24:55"
-		},
-		{
-			title:"冥王",
-			src:"/animation/PLUTO",
-			img:"https://s1.imagehub.cc/images/2023/09/29/PLUTO.jpeg",
-			releaseDate:"2023,10,26",
-			classify:"科幻",
-			country:"日本",
-			state:"(已完结)总话数: 8"
-		},
-		{
-			title:"星灵感应",
-			src:"/animation/hoshitele",
-			img:"https://s1.imagehub.cc/images/2023/09/29/hoshitele.jpeg",
-			releaseDate:"2023,10,9",
-			classify:"奇幻",
-			country:"日本",
-			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"间谍过家家 第二季",
@@ -344,24 +236,6 @@ export const TheBangumiList = ()=>{
 			state:"(已完结)总话数: 12"
 		},
 		{
-			title:"明日方舟：冬隐归路",
-			src:"/animation/Arknights2",
-			img:"https://s1.imagehub.cc/images/2023/10/03/Arknights2.png",
-			releaseDate:"2023,10,6",
-			classify:"科幻",
-			country:"日本/中国",
-			state:"(已完结)总话数: 8"
-		},
-		{
-			title:"经验丰富的你和经验为零的我交往的故事",
-			src:"/animation/kimizero",
-			img:"https://s1.imagehub.cc/images/2023/09/29/kimizero.jpeg",
-			releaseDate:"2023,10,6",
-			classify:"恋爱",
-			country:"日本",
-			state:"(已完结)总话数: 12"
-		},
-		{
 			title:"想要成为影之实力者! 第二季",
 			src:"/animation/TheEminenceinShadow2",
 			img:"https://s1.imagehub.cc/images/2023/09/29/TheEminenceinShadow2.jpeg",
@@ -369,24 +243,6 @@ export const TheBangumiList = ()=>{
 			classify:"奇幻",
 			country:"日本",
 			state:"(已完结)总话数: 12"
-		},
-		{
-			title:"赛马娘 第三季",
-			src:"/animation/umamusume3",
-			img:"https://s1.imagehub.cc/images/2023/09/29/umamusume3.jpeg",
-			releaseDate:"2023,10,4",
-			classify:"剧情",
-			country:"日本",
-			state:"(已完结)总话数: 13"
-		},
-		{
-			title:"16bit的感动",
-			src:"/animation/16bitsensation",
-			img:"https://s1.imagehub.cc/images/2023/09/29/16bitsensation.jpeg",
-			releaseDate:"2023,10,4",
-			classify:"剧情",
-			country:"日本",
-			state:"(已完结)总话数: 13"
 		},
 		{
 			title:"葬送的芙莉莲 第一季度",
@@ -425,15 +281,6 @@ export const TheBangumiList = ()=>{
 			state:"(已完结)总话数: 12"
 		},
 		{
-			title:"AI电子基因",
-			src:"/animation/ainoidenshi",
-			img:"https://s1.imagehub.cc/images/2023/07/18/ainoidenshi.webp",
-			releaseDate:"2023,7,7",
-			classify:"科幻",
-			country:"日本",
-			state:"(已完结)总话数: 12"
-		},
-		{
 			title:"咒术回战 第二季",
 			src:"/animation/jujutsukaisen",
 			img:"https://s1.imagehub.cc/images/2023/11/17/143612347056c024eb042434de0c83b0.jpeg",
@@ -441,15 +288,6 @@ export const TheBangumiList = ()=>{
 			classify:"奇幻",
 			country:"日本",
 			state:"(已完结)总话数: 23"
-		},
-		{
-			title:"命运/奇异赝品 黎明低语",
-			src:"/animation/fate",
-			img:"https://s1.imagehub.cc/images/2023/07/19/fate.webp",
-			releaseDate:"2023,7,3",
-			classify:"奇幻",
-			country:"日本",
-			state:"总话数: 未知"
 		},
 		{
 			title:"无职转生Ⅱ Part1",
@@ -470,15 +308,6 @@ export const TheBangumiList = ()=>{
 			state:"影片时长: 1:13:53"
 		},
 		{
-			title:"刀剑神域进击篇：暮色黄昏",
-			src:"/film/SwordArtOnlineK",
-			img:"https://s1.imagehub.cc/images/2023/06/08/SwordArtOnlineK.webp",
-			releaseDate:"2023,5,26",
-			classify:"动作",
-			country:"日本",
-			state:"影片时长: 1:40:30"
-		},
-		{
 			title:"我推的孩子",
 			src:"/animation/IchigoProduction",
 			img:"https://s1.imagehub.cc/images/2023/04/14/a095977c44c9dc5232e57672d3eed48e.webp",
@@ -488,72 +317,9 @@ export const TheBangumiList = ()=>{
 			state:"(已完结)总话数: 11"
 		},
 		{
-			title:"因为太怕痛就全点防御力了 第二季",
-			src:"/animation/Itainohaiya",
-			img:"https://s1.imagehub.cc/images/2022/12/23/66f481396edc1415d1060b8747fafbd3.jpeg",
-			releaseDate:"2023,1,11",
-			classify:"喜剧",
-			country:"日本",
-			state:"(已完结)总话数: 12"
-		},
-		{
-			title:"妖幻三重奏",
-			src:"/animation/AyakashiTriangle",
-			img:"https://s1.imagehub.cc/images/2023/01/11/1c10af10eeb0acb9bef8c508da9950f3.jpeg",
-			releaseDate:"2023,1,9",
-			classify:"奇幻",
-			country:"日本",
-			state:"(已完结)总话数: 12"
-		},
-		{
-			title:"最强阴阳师的异世界转生记",
-			src:"/animation/SaikyouOnmyouji",
-			img:"https://s1.imagehub.cc/images/2023/01/09/e7f0523688703d5148f03d3df7f4121d.webp",
-			releaseDate:"2023,1,7",
-			classify:"奇幻",
-			country:"日本",
-			state:"(已完结)总话数: 13"
-		},
-		{
-			title:"关于我在无意间被隔壁的天使变成废柴这件事",
-			src:"/animation/OtonarinoTenshisama",
-			img:"https://s1.imagehub.cc/images/2022/12/23/95d115413660da96bde32f6cef0e933e.jpeg",
-			releaseDate:"2023,1,7",
-			classify:"喜剧",
-			country:"日本",
-			state:"(已完结)总话数: 12"
-		},
-		{
-			title:"尼尔：自动人形",
-			src:"/animation/NieRAutomata",
-			img:"https://s1.imagehub.cc/images/2022/12/23/dc905bc1842726a76afb441ad3abd621.jpeg",
-			releaseDate:"2023,1,7",
-			classify:"战斗",
-			country:"日本",
-			state:"(已完结)总话数: 12"
-		},
-		{
 			title:"别当欧尼酱了！",
 			src:"/animation/bdonjl",
 			img:"https://s1.imagehub.cc/images/2022/12/11/48127033756a3831706e8eaa72612a48.jpeg",
-			releaseDate:"2023,1,5",
-			classify:"喜剧",
-			country:"日本",
-			state:"(已完结)总话数: 12"
-		},
-		{
-			title:"间谍教室",
-			src:"/animation/Spyroom",
-			img:"https://s1.imagehub.cc/images/2022/12/23/e43f5a35cfc9c5226629a9b0f8fca824.jpeg",
-			releaseDate:"2023,1,5",
-			classify:"战斗",
-			country:"日本",
-			state:"(已完结)总话数: 预计12"
-		},
-		{
-			title:"无意间变成狗，被喜欢的女生捡回家。",
-			src:"/animation/Inuhiro",
-			img:"https://s1.imagehub.cc/images/2023/01/11/afaa8b07965871b302c0ba2c16302ac7.webp",
 			releaseDate:"2023,1,5",
 			classify:"喜剧",
 			country:"日本",
