@@ -298,15 +298,6 @@ export const TheBangumiList = ()=>{
 			country:"日本",
 			state:"(已完结)总话数: 12"
 		},
-        {
-            title:"2022年度番剧混剪",
-            src:"/animation/2022",
-            img:"https://s1.imagehub.cc/images/2023/01/10/ceeab34da924f5454937d9ae94353929.jpeg",
-            releaseDate:"2023,1,1",
-			classify:"混剪",
-            country:"中国",
-            state:"视频时长：5:04"
-        },
 		{
 			title:"铃芽之旅",
 			src:"/film/SuzumenoTojimari",
