@@ -258,8 +258,8 @@ export const TheBangumiList = ()=>{
 			src:"/teleplay/BML2023/01",
 			img:"https://s1.imagehub.cc/images/2023/11/03/f5fe54b0f1912636d3129f3cd8fe049e.jpeg",
 			releaseDate:"2023,7,22",
-			classify:"演唱会",
-			country:"中国/日本",
+			classify:"综合演唱会",
+			country:"中国",
 			state:"BILIBILI MACRO LINK 2023"
 		},
 		{
