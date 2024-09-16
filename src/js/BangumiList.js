@@ -254,15 +254,6 @@ export const TheBangumiList = ()=>{
 			state:"(已完结)总话数: 12"
 		},
 		{
-			title:"咒术回战 第二季",
-			src:"/animation/jujutsukaisen",
-			img:"https://s1.imagehub.cc/images/2023/11/17/143612347056c024eb042434de0c83b0.jpeg",
-			releaseDate:"2023,7,6",
-			classify:"奇幻",
-			country:"日本",
-			state:"(已完结)总话数: 23"
-		},
-		{
 			title:"无职转生Ⅱ Part1",
 			src:"/animation/mushokutensei",
 			img:"https://s1.imagehub.cc/images/2023/07/18/mushokutensei.webp",
