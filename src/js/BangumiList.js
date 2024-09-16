@@ -164,15 +164,6 @@ export const TheBangumiList = ()=>{
 			state:"(已完结)总话数: 12"
 		},
 		{
-			title:"我独自升级",
-			src:"/animation/sololeveling",
-			img:"https://s1.imagehub.cc/images/2024/01/20/d869c993b11a77cb9f5bee1a73290643.jpeg",
-			releaseDate:"2024,1,6",
-			classify:"奇幻",
-			country:"日本",
-			state:"(已完结)总话数: 12"
-		},
-		{
 			title:"葬送的芙莉莲 第二季度",
 			src:"/animation/FrierenBeyondJourneysEnd",
 			img:"https://s1.imagehub.cc/images/2023/12/29/01191f75f4d21914dd389a46f6c42e02.webp",
@@ -187,15 +178,6 @@ export const TheBangumiList = ()=>{
 			img:"https://s1.imagehub.cc/images/2024/01/01/622396e5acdeffcc1307614f48396be5.webp",
 			releaseDate:"2024,1,3",
 			classify:"魔法",
-			country:"日本",
-			state:"(已完结)总话数: 13"
-		},
-		{
-			title:"欢迎来到实力至上主义的教室 第三季",
-			src:"/animation/youzitsu3",
-			img:"https://s1.imagehub.cc/images/2024/01/01/df528313e45323938cea5d674ddab251.jpeg",
-			releaseDate:"2024,1,3",
-			classify:"剧情",
 			country:"日本",
 			state:"(已完结)总话数: 13"
 		},
@@ -231,15 +213,6 @@ export const TheBangumiList = ()=>{
 			src:"/animation/hikikomari",
 			img:"https://s1.imagehub.cc/images/2023/09/29/hikikomari.jpeg",
 			releaseDate:"2023,10,7",
-			classify:"奇幻",
-			country:"日本",
-			state:"(已完结)总话数: 12"
-		},
-		{
-			title:"想要成为影之实力者! 第二季",
-			src:"/animation/TheEminenceinShadow2",
-			img:"https://s1.imagehub.cc/images/2023/09/29/TheEminenceinShadow2.jpeg",
-			releaseDate:"2023,10,4",
 			classify:"奇幻",
 			country:"日本",
 			state:"(已完结)总话数: 12"
