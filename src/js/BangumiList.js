@@ -1,10 +1,9 @@
 //下面是滚动图列表
 export const TheImgList = ()=> {
 	return [
-		{src: "https://s1.imagehub.cc/images/2024/07/07/f02eaaca3d092dfbf69a4ad9974683c9.jpeg", href: '/animation/makeine'},
-		{src: "https://s1.imagehub.cc/images/2024/08/22/83ac04dacb9b4d9a4c68403f2edf1de0.jpg", href: '/animation/shikanoko'},
-		{src: "https://s1.imagehub.cc/images/2024/05/18/79b3a87e77a21f5bebc01183b2415dc9.webp", href: '/animation/oshinoko2'},
-		{src: "https://s1.imagehub.cc/images/2024/07/26/02fa0219d89963cdffa13b4d18ccaf3c.jpeg", href: '/animation/roshidere'},
+		{src: "https://s1.imagehub.cc/images/2024/08/18/69a776cb5468e12bb38866b0f7332b0d.jpg", href: '/animation/Orb/01'},
+		{src: "https://s1.imagehub.cc/images/2024/10/01/0065636f82a0d5f286d9f3ccec7b823d.jpg", href: '/animation/re0s3/01'},
+		{src: "https://s1.imagehub.cc/images/2024/10/01/d4ca8b6f87ec4ee38e90d9f4c116508c.jpg", href: '/animation/SeireiGensouki2/01'},
 	];
 }
 //下面是番剧列表
@@ -29,13 +28,31 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
-			title:"Re:从零开始的异世界生活 第三季",
-			src:"/animation/re0s3",
-			img:"https://s1.imagehub.cc/images/2024/08/18/69a776cb5468e12bb38866b0f7332b0d.jpg",
-			releaseDate:"2024,10",
+			title:"精灵幻想记 第二季",
+			src:"/animation/SeireiGensouki2/01",
+			img:"https://s1.imagehub.cc/images/2024/10/01/0065636f82a0d5f286d9f3ccec7b823d.jpg",
+			releaseDate:"2024,10,8",
 			classify:"奇幻",
 			country:"日本",
 			state:"(更新中)总话数: 未知"
+		},
+		{
+			title:"地。―关于地球的运动",
+			src:"/animation/Orb/01",
+			img:"https://s1.imagehub.cc/images/2024/10/01/d4ca8b6f87ec4ee38e90d9f4c116508c.jpg",
+			releaseDate:"2024,10,5",
+			classify:"科学",
+			country:"日本",
+			state:"(更新中)总话数: 未知"
+		},
+		{
+			title:"Re:从零开始的异世界生活 第三季",
+			src:"/animation/re0s3/01",
+			img:"https://s1.imagehub.cc/images/2024/08/18/69a776cb5468e12bb38866b0f7332b0d.jpg",
+			releaseDate:"2024,10,2",
+			classify:"奇幻",
+			country:"日本",
+			state:"(更新中)总话数: 16"
 		},
 		{
 			title:"仅以此视频悼念这位喜欢吉他的酸欠少女Sayuri",
@@ -71,7 +88,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2024,7,14",
 			classify:"喜剧",
 			country:"日本",
-			state:"(更新中)总话数: 12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"BILIBILI MACRO LINK 2024",
@@ -98,7 +115,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2024,7,3",
 			classify:"喜剧",
 			country:"日本",
-			state:"(更新中)总话数: 12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"我推的孩子 第二季",
@@ -107,7 +124,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2024,7,3",
 			classify:"奇幻",
 			country:"日本",
-			state:"(更新中)总话数: 23"
+			state:"(已完结)总话数: 23"
 		},
 		{
 			title:"不时轻声地以俄语遮羞的邻座艾莉同学",
@@ -116,7 +133,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2024,7,3",
 			classify:"爱情",
 			country:"日本",
-			state:"(更新中)总话数: 12"
+			state:"(已完结)总话数: 12"
 		},
 		{
 			title:"鬼灭之刃 第四季 柱训练篇",
@@ -215,7 +232,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2023,10,7",
 			classify:"喜剧",
 			country:"日本",
-			state:"(更新中)总话数: 13"
+			state:"(已完结)总话数: 13"
 		},
 		{
 			title:"家里蹲吸血姬的苦闷",
@@ -233,7 +250,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2023,9,29",
 			classify:"治愈",
 			country:"日本",
-			state:"(更新中)总话数: 28"
+			state:"(已完结)总话数: 28"
 		},
 		{
 			title:"BILIBILI MACRO LINK 2023",
