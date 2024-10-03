@@ -21,7 +21,7 @@ export const TheBangumiList = ()=>{
 		{
 			title:"搜索",
 			src:"https://video.musestar.cc/",
-			img:"https://t.alcy.cc/pc/",
+			img:"https://api.anosu.top/api/?sort=all",
 			releaseDate:"2024,1,1",
 			classify:"自定义",
 			country:"搜索",
