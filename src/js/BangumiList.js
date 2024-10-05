@@ -46,6 +46,15 @@ export const TheBangumiList = ()=>{
 			state:"(更新中)总话数: 未知"
 		},
 		{
+			title:"盒中之海",
+			src:"/film/hzzh",
+			img:"https://s1.imagehub.cc/images/2024/10/05/722b48cfc6e2dc3a6176e240bfe38c4d.png",
+			releaseDate:"2024,10,3",
+			classify:"奇幻",
+			country:"中国",
+			state:"影片时长: 2:09:31"
+		},
+		{
 			title:"Re:从零开始的异世界生活 第三季",
 			src:"/animation/re0s3/01",
 			img:"https://s1.imagehub.cc/images/2024/08/18/69a776cb5468e12bb38866b0f7332b0d.jpg",
