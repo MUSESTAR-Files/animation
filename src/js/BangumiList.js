@@ -2,7 +2,8 @@
 export const TheImgList = ()=> {
 	return [
 		{src: "https://s1.imagehub.cc/images/2024/08/18/69a776cb5468e12bb38866b0f7332b0d.jpg", href: '/animation/Orb/01'},
-		{src: "https://s1.imagehub.cc/images/2024/10/01/0065636f82a0d5f286d9f3ccec7b823d.jpg", href: '/animation/re0s3/01'},
+		{src: "https://s1.imagehub.cc/images/2024/10/07/a730387be806bf403a862b060a106fed.jpg", href: '/animation/re0s3/01'},
+		{src: "https://s1.imagehub.cc/images/2024/10/01/0065636f82a0d5f286d9f3ccec7b823d.jpg", href: '/animation/bleach3/27'},
 		{src: "https://s1.imagehub.cc/images/2024/10/01/d4ca8b6f87ec4ee38e90d9f4c116508c.jpg", href: '/animation/SeireiGensouki2/01'},
 	];
 }
@@ -34,7 +35,16 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2024,10,8",
 			classify:"奇幻",
 			country:"日本",
-			state:"(更新中)总话数: 未知"
+			state:"(更新中)总话数: 12"
+		},
+		{
+			title:"死神 千年血战篇 -相克谭-",
+			src:"/animation/bleach3/27",
+			img:"https://s1.imagehub.cc/images/2024/10/07/a730387be806bf403a862b060a106fed.jpg",
+			releaseDate:"2024,10,5",
+			classify:"战斗",
+			country:"日本",
+			state:"(更新中)总话数: 13"
 		},
 		{
 			title:"地。―关于地球的运动",
@@ -133,7 +143,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2024,7,3",
 			classify:"奇幻",
 			country:"日本",
-			state:"(已完结)总话数: 23"
+			state:"(已完结)总话数: 24"
 		},
 		{
 			title:"不时轻声地以俄语遮羞的邻座艾莉同学",
