@@ -56,6 +56,15 @@ export const TheBangumiList = ()=>{
 			state:"(更新中)总话数: 未知"
 		},
 		{
+			title:"洛天依「歌行宇宙·无限共鸣」",
+			src:"/teleplay/LTYWXGM2024",
+			img:"https://s1.imagehub.cc/images/2024/10/08/009311278d9e91751280590d6ce037cb.jpg",
+			releaseDate:"2024,10,5",
+			classify:"全息演唱会",
+			country:"中国",
+			state:"洛天依「歌行宇宙·无限共鸣」"
+		},
+		{
 			title:"盒中之海",
 			src:"/film/hzzh",
 			img:"https://s1.imagehub.cc/images/2024/10/05/722b48cfc6e2dc3a6176e240bfe38c4d.png",
