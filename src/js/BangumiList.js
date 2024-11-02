@@ -56,15 +56,6 @@ export const TheBangumiList = ()=>{
 			state:"(更新中)总话数: 未知"
 		},
 		{
-			title:"洛天依「歌行宇宙·无限共鸣」",
-			src:"/teleplay/LTYWXGM2024",
-			img:"https://s1.imagehub.cc/images/2024/10/08/009311278d9e91751280590d6ce037cb.jpg",
-			releaseDate:"2024,10,5",
-			classify:"全息演唱会",
-			country:"中国",
-			state:"洛天依「歌行宇宙·无限共鸣」"
-		},
-		{
 			title:"盒中之海",
 			src:"/film/hzzh",
 			img:"https://s1.imagehub.cc/images/2024/10/05/722b48cfc6e2dc3a6176e240bfe38c4d.png",
@@ -83,24 +74,6 @@ export const TheBangumiList = ()=>{
 			state:"(更新中)总话数: 16"
 		},
 		{
-			title:"仅以此视频悼念这位喜欢吉他的酸欠少女Sayuri",
-			src:"/teleplay/Sayuri",
-			img:"https://s1.imagehub.cc/images/2024/09/28/1a0219d4f91f6ed7611916405312da72.jpg",
-			releaseDate:"2024,9,27",
-			classify:"晚安🕯",
-			country:"日本",
-			state:"仅以此视频悼念这位喜欢吉他的酸欠少女Sayuri"
-		},
-		{
-			title:"冰火歌会2024漫游季",
-			src:"/teleplay/BHGH2024",
-			img:"https://s1.imagehub.cc/images/2024/09/15/fc0d5b23e477d9973dbc3898181baccf.png",
-			releaseDate:"2024,9,15",
-			classify:"虚拟演唱会",
-			country:"中国",
-			state:"冰火歌会2024漫游季"
-		},
-		{
 			title:"通往夏天的隧道,再见的出口",
 			src:"/film/NatsuenoTunnel",
 			img:"https://s1.imagehub.cc/images/2024/08/19/b68cbf5ff34a36fe57d3ce0d06e4870a.png",
@@ -117,24 +90,6 @@ export const TheBangumiList = ()=>{
 			classify:"喜剧",
 			country:"日本",
 			state:"(已完结)总话数: 12"
-		},
-		{
-			title:"BILIBILI MACRO LINK 2024",
-			src:"/teleplay/BML2024/100",
-			img:"https://s1.imagehub.cc/images/2024/06/15/566f287884202f982c16618804792d65.jpeg",
-			releaseDate:"2024,7,13",
-			classify:"综合演唱会",
-			country:"中国",
-			state:"BILIBILI MACRO LINK 2024"
-		},
-		{
-			title:"TUBEOUT! 2024",
-			src:"/teleplay/TUBEOUT2024",
-			img:"https://s1.imagehub.cc/images/2024/07/28/65c2270b7b17a06eadf72cc5a5c9255e.jpeg",
-			releaseDate:"2024,7,12",
-			classify:"虚拟演唱会",
-			country:"中国",
-			state:"TUBEOUT! 2024"
 		},
 		{
 			title:"鹿乃子乃子虎视眈眈",
@@ -236,15 +191,6 @@ export const TheBangumiList = ()=>{
 			state:"(已完结)总话数: 13"
 		},
 		{
-			title:"2023热度年度总结",
-			src:"/teleplay/AnnualSummaryofPopularity/2023",
-			img:"https://s1.imagehub.cc/images/2023/12/16/4da10d5a770fd52080aa6375d9ac9d09.jpeg",
-			releaseDate:"2023,12,15",
-			classify:"套娃",
-			country:"中国",
-			state:"视频时长: 10:11"
-		},
-		{
 			title:"青春猪头少年不会梦到红书包女孩",
 			src:"/film/knapsack",
 			img:"https://s1.imagehub.cc/images/2024/07/04/af4907bcf6d53279c6aeeda32a3203f5.jpeg",
@@ -279,15 +225,6 @@ export const TheBangumiList = ()=>{
 			classify:"治愈",
 			country:"日本",
 			state:"(已完结)总话数: 28"
-		},
-		{
-			title:"BILIBILI MACRO LINK 2023",
-			src:"/teleplay/BML2023/01",
-			img:"https://s1.imagehub.cc/images/2023/11/03/f5fe54b0f1912636d3129f3cd8fe049e.jpeg",
-			releaseDate:"2023,7,22",
-			classify:"综合演唱会",
-			country:"中国",
-			state:"BILIBILI MACRO LINK 2023"
 		},
 		{
 			title:"白圣女与黑牧师",
