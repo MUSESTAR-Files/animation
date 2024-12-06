@@ -11,6 +11,15 @@ export const TheImgList = ()=> {
 export const TheBangumiList = ()=>{
 	return [
 		{
+			title:"2024最美的夜",
+			src:"/teleplay/zmdy/2024",
+			img:"https://s1.imagehub.cc/images/2024/12/05/8eea3b1526bd0783ae227e4f9f4f98fd.jpg",
+			releaseDate:"2024,12,31",
+			classify:"跨年晚会",
+			country:"中国",
+			state:"2024最美的夜"
+		},
+		{
 			title:"镇站之宝-魔女之旅",
 			src:"/animation/mnzl",
 			img:"https://s1.imagehub.cc/images/2024/05/02/8ab51680d1d65f4af22338dff9712218.png",
@@ -23,7 +32,7 @@ export const TheBangumiList = ()=>{
 			title:"搜索",
 			src:"https://video.musestar.cc/",
 			img:"https://api.anosu.top/api/?sort=all",
-			releaseDate:"2024,1,1",
+			releaseDate:"2077,1,1",
 			classify:"自定义",
 			country:"搜索",
 			state:"第三方播放源在线播放"
