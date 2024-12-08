@@ -38,6 +38,15 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
+			title:"BanG Dream! Ave Mujica",
+			src:"/animation/avemujica/01",
+			img:"https://s1.imagehub.cc/images/2024/12/08/4448e7557b33850ac40959b8ac720130.jpg",
+			releaseDate:"2025,1,2",
+			classify:"音乐",
+			country:"日本",
+			state:"(更新中)总话数: 12"
+		},
+		{
 			title:"精灵幻想记 第二季",
 			src:"/animation/SeireiGensouki2/01",
 			img:"https://s1.imagehub.cc/images/2024/10/01/0065636f82a0d5f286d9f3ccec7b823d.jpg",
