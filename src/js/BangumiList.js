@@ -39,7 +39,7 @@ export const TheBangumiList = ()=>{
 		},
 		{
 			title:"BanG Dream! Ave Mujica",
-			src:"/animation/avemujica/01",
+			src:"/animation/AveMujica/01",
 			img:"https://s1.imagehub.cc/images/2024/12/08/4448e7557b33850ac40959b8ac720130.jpg",
 			releaseDate:"2025,1,2",
 			classify:"音乐",
