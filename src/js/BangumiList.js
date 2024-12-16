@@ -38,6 +38,33 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
+			title:"地缚少年花子君 第二季",
+			src:"/animation/hanakokun/01",
+			img:"https://s1.imagehub.cc/images/2024/12/16/cd4ef51d8852f35db8764ce2c934e5f6.jpg",
+			releaseDate:"2025,1",
+			classify:"奇幻",
+			country:"日本",
+			state:"(更新中)总话数: 12"
+		},
+		{
+			title:"我独自升级 第二季",
+			src:"/animation/SoloLeveling2/01",
+			img:"https://s1.imagehub.cc/images/2024/12/16/d6fe24d2d22818bff757b88a6926353c.jpg",
+			releaseDate:"2025,1",
+			classify:"奇幻",
+			country:"日本",
+			state:"(更新中)总话数: 12"
+		},
+		{
+			title:"超超超超超喜欢你的100个女朋友 第二季",
+			src:"/animation/hyakkano/01",
+			img:"https://s1.imagehub.cc/images/2024/12/16/bebaa3b39e403aeb1b0e45c73575e564.webp",
+			releaseDate:"2025,1,12",
+			classify:"喜剧",
+			country:"日本",
+			state:"(更新中)总话数: 12"
+		},
+		{
 			title:"BanG Dream! Ave Mujica",
 			src:"/animation/AveMujica/01",
 			img:"https://s1.imagehub.cc/images/2024/12/08/4448e7557b33850ac40959b8ac720130.jpg",
