@@ -39,7 +39,7 @@ export const TheBangumiList = ()=>{
 		},
 		{
 			title:"地缚少年花子君 第二季",
-			src:"/animation/hanakokun/01",
+			src:"/animation/hanakokun2/01",
 			img:"https://s1.imagehub.cc/images/2024/12/16/cd4ef51d8852f35db8764ce2c934e5f6.jpg",
 			releaseDate:"2025,1",
 			classify:"奇幻",
@@ -57,7 +57,7 @@ export const TheBangumiList = ()=>{
 		},
 		{
 			title:"超超超超超喜欢你的100个女朋友 第二季",
-			src:"/animation/hyakkano/01",
+			src:"/animation/hyakkano2/01",
 			img:"https://s1.imagehub.cc/images/2024/12/16/bebaa3b39e403aeb1b0e45c73575e564.webp",
 			releaseDate:"2025,1,12",
 			classify:"喜剧",
