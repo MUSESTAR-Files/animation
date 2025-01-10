@@ -23,7 +23,7 @@ export const TheBangumiList = ()=>{
 			title:"搜索",
 			src:"https://video.musestar.cc/",
 			img:"https://api.anosu.top/api/?sort=all",
-			releaseDate:"2077月1月1日",
+			releaseDate:"2077年1月1日",
 			classify:"自定义",
 			country:"搜索",
 			state:"第三方播放源在线播放"
