@@ -83,15 +83,6 @@ export const TheBangumiList = ()=>{
 			state:"总话数: 13"
 		},
 		{
-			title:"地。―关于地球的运动",
-			src:"/animation/Orb/01",
-			img:"https://s1.imagehub.cc/images/2024/10/01/d4ca8b6f87ec4ee38e90d9f4c116508c.jpg",
-			releaseDate:"2024年10月5日",
-			classify:"科学",
-			country:"日本",
-			state:"总话数: 25"
-		},
-		{
 			title:"盒中之海",
 			src:"/film/hzzh",
 			img:"https://s1.imagehub.cc/images/2024/10/05/722b48cfc6e2dc3a6176e240bfe38c4d.png",
