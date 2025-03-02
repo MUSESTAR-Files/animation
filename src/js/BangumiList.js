@@ -29,6 +29,15 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
+			title:"你的颜色",
+			src:"/film/Kiminoiro",
+			img:"https://s1.imagehub.cc/images/2025/03/02/8a25ab126b1b035a31eec179dee1de33.jpg",
+			releaseDate:"2025年2月21日",
+			classify:"音乐",
+			country:"日本",
+			state:"影片时长: 1:40:39"
+		},
+		{
 			title:"地缚少年花子君 第二季",
 			src:"/animation/hanakokun2/01",
 			img:"https://s1.imagehub.cc/images/2024/12/16/cd4ef51d8852f35db8764ce2c934e5f6.jpg",
