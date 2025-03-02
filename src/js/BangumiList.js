@@ -31,7 +31,7 @@ export const TheBangumiList = ()=>{
 		{
 			title:"你的颜色",
 			src:"/film/Kiminoiro",
-			img:"https://s1.imagehub.cc/images/2025/03/02/8a25ab126b1b035a31eec179dee1de33.jpg",
+			img:"https://s1.imagehub.cc/images/2025/03/02/730c367da74f851a8f9e2fbc3e10af1a.jpg",
 			releaseDate:"2025年2月21日",
 			classify:"音乐",
 			country:"日本",
