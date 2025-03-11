@@ -29,6 +29,15 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
+			title:"孤独摇滚！ 剧场总集篇 Re:",
+			src:"/film/bocchirocks",
+			img:"https://s1.imagehub.cc/images/2025/03/11/0db55824fce28687d9770fec63b614e6.jpg",
+			releaseDate:"2025年3月",
+			classify:"音乐",
+			country:"日本",
+			state:"影片时长: 1:29:39"
+		},
+		{
 			title:"你的颜色",
 			src:"/film/Kiminoiro",
 			img:"https://s1.imagehub.cc/images/2025/03/02/730c367da74f851a8f9e2fbc3e10af1a.jpg",
