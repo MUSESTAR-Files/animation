@@ -1,32 +1,139 @@
 //下面是滚动图列表
 export const TheImgList = ()=> {
 	return [
-		{src: "https://s1.imagehub.cc/images/2024/12/16/d6fe24d2d22818bff757b88a6926353c.jpg", href: '/animation/hyakkano2/01'},
-		{src: "https://s1.imagehub.cc/images/2024/12/08/4448e7557b33850ac40959b8ac720130.jpg", href: '/animation/SoloLeveling2/01'},
-		{src: "https://s1.imagehub.cc/images/2024/12/16/cd4ef51d8852f35db8764ce2c934e5f6.jpg", href: '/animation/AveMujica/01'},
-		{src: "https://s1.imagehub.cc/images/2024/12/16/bebaa3b39e403aeb1b0e45c73575e564.webp", href: '/animation/hanakokun2/01'},
+		{src: "https://s1.imagehub.cc/images/2025/04/03/dd5ac8febddf1d5fd870b153d062ceda.jpg", href: '/animation/slime300/01'},
+		{src: "https://s1.imagehub.cc/images/2025/04/03/faf893c3df1b0b2c08781d1bfd4be400.jpg", href: '/animation/cinderellagray/01'},
+		{src: "https://s1.imagehub.cc/images/2025/04/03/8d449a1c7848a6e398bdb18c58a33ddb.jpg", href: '/animation/lycoris-recoil/01'},
 	];
 }
 //下面是番剧列表
 export const TheBangumiList = ()=>{
 	return [
 		{
-			title:"镇站之宝-魔女之旅",
+			title:"魔女之旅",
 			src:"/animation/mnzl",
 			img:"https://s1.imagehub.cc/images/2024/05/02/8ab51680d1d65f4af22338dff9712218.png",
 			releaseDate:"2020年10月2日",
-			classify:"治愈",
+			classify:"奇幻",
 			country:"日本",
 			state:"总话数: 12"
 		},
 		{
-			title:"搜索",
-			src:"https://video.musestar.cc/",
-			img:"https://api.anosu.top/api/?sort=all",
-			releaseDate:"2077年1月1日",
-			classify:"自定义",
-			country:"搜索",
-			state:"第三方播放源在线播放"
+			title:"青春猪头少年不会梦到圣诞服女郎",
+			src:"/animation/ao-buta/01",
+			img:"https://s1.imagehub.cc/images/2025/04/03/e0452fbe14a6e58a62a7b7ae21c2938f.jpg",
+			releaseDate:"2025年7月",
+			classify:"恋爱",
+			country:"日本",
+			state:"总话数: "
+		},
+		{
+			title:"胆大党 第二季",
+			src:"/animation/dandadan/01",
+			img:"https://s1.imagehub.cc/images/2025/04/03/1ffa8f4408f5cb7ecf55f6d776f547c4.jpg",
+			releaseDate:"2025年7月",
+			classify:"动作",
+			country:"日本",
+			state:"总话数: "
+		},
+		{
+			title:"怪兽8号 第二季",
+			src:"/animation/kaiju-no8/01",
+			img:"https://s1.imagehub.cc/images/2025/04/03/7203d58a3ebf409061097490b674636a.jpg",
+			releaseDate:"2025年7月",
+			classify:"动作",
+			country:"日本",
+			state:"总话数: "
+		},
+		{
+			title:"彻夜之歌 第二季",
+			src:"/animation/yofukashi-no-uta/01",
+			img:"https://s1.imagehub.cc/images/2025/04/03/23b8be64b3a583ec2a0d38df1b3f5489.jpg",
+			releaseDate:"2025年7月",
+			classify:"恋爱",
+			country:"日本",
+			state:"总话数: "
+		},
+		{
+			title:"更衣人偶坠入爱河 第二季",
+			src:"/animation/bisquedoll/01",
+			img:"https://s1.imagehub.cc/images/2025/04/03/60a92b3ac311c8f3b972a234c669e3f8.jpg",
+			releaseDate:"2025年7月",
+			classify:"剧情",
+			country:"日本",
+			state:"总话数: "
+		},
+		{
+			title:"神椿市建设中。",
+			src:"/animation/kamitsubaki/01",
+			img:"https://s1.imagehub.cc/images/2025/04/03/b0f087e6f17c4dbe55629ec1d7dcbafa.jpg",
+			releaseDate:"2025年7月",
+			classify:"奇幻",
+			country:"日本",
+			state:"总话数: "
+		},
+		{
+			title:"沉默魔女的秘密",
+			src:"/animation/silentwitch/01",
+			img:"https://s1.imagehub.cc/images/2025/04/03/16ef2da98f517b406d098a83578f94bc.jpg",
+			releaseDate:"2025年7月",
+			classify:"奇幻",
+			country:"日本",
+			state:"总话数: "
+		},
+		{
+			title:"莉可丽丝 朋友是时间小偷",
+			src:"/animation/lycoris-recoil/01",
+			img:"https://s1.imagehub.cc/images/2025/04/03/faf893c3df1b0b2c08781d1bfd4be400.jpg",
+			releaseDate:"2025年4月6日",
+			classify:"剧情",
+			country:"日本",
+			state:"总话数: 6"
+		},
+		{
+			title:"赛马娘 芦毛灰姑娘 Part.1",
+			src:"/animation/cinderellagray/01",
+			img:"https://s1.imagehub.cc/images/2025/04/03/dd5ac8febddf1d5fd870b153d062ceda.jpg",
+			releaseDate:"2025年4月6日",
+			classify:"剧情",
+			country:"日本",
+			state:"总话数: 13"
+		},
+		{
+			title:"[NSFW] 快藏起来！玛琪娜同学!!",
+			src:"/animation/makinasan/01",
+			img:"https://s1.imagehub.cc/images/2025/04/03/c99aad2b8692c8f48097b62f2399f580.jpg",
+			releaseDate:"2025年4月6日",
+			classify:"恋爱",
+			country:"日本",
+			state:"总话数: 12"
+		},
+		{
+			title:"打了300年的史莱姆，不知不觉就练到了满级 第二季",
+			src:"/animation/slime300/01",
+			img:"https://s1.imagehub.cc/images/2025/04/03/8d449a1c7848a6e398bdb18c58a33ddb.jpg",
+			releaseDate:"2025年4月5日",
+			classify:"奇幻",
+			country:"日本",
+			state:"总话数: 12"
+		},
+		{
+			title:"[NSFW] 鹰峰同学请穿上衣服",
+			src:"/animation/takaminesan/01",
+			img:"https://s1.imagehub.cc/images/2025/04/03/a6e912b9f4afdf218c1b4143a8c7658c.jpg",
+			releaseDate:"2025年4月2日",
+			classify:"奇幻",
+			country:"日本",
+			state:"总话数: 12"
+		},
+		{
+			title:"直至魔女消逝",
+			src:"/animation/arumajo/01",
+			img:"https://s1.imagehub.cc/images/2025/04/03/2fa3b3d3edfd3d6dbe4e2c8b3f324aa9.jpg",
+			releaseDate:"2025年4月1日",
+			classify:"奇幻",
+			country:"日本",
+			state:"总话数: 12"
 		},
 		{
 			title:"孤独摇滚！ 剧场总集篇 Re:",
@@ -222,7 +329,7 @@ export const TheBangumiList = ()=>{
 			src:"/animation/FrierenBeyondJourneysEnd",
 			img:"https://s1.imagehub.cc/images/2023/12/29/01191f75f4d21914dd389a46f6c42e02.webp",
 			releaseDate:"2024年1月5日",
-			classify:"治愈",
+			classify:"奇幻",
 			country:"日本",
 			state:"总话数: 28"
 		},
@@ -267,7 +374,7 @@ export const TheBangumiList = ()=>{
 			src:"/animation/FrierenBeyondJourneysEnd",
 			img:"https://s1.imagehub.cc/images/2023/12/29/74550f2b6a424fd34b77d010533c98c2.webp",
 			releaseDate:"2023年9月29日",
-			classify:"治愈",
+			classify:"奇幻",
 			country:"日本",
 			state:"总话数: 28"
 		},
@@ -357,7 +464,7 @@ export const TheBangumiList = ()=>{
 			src:"/animation/mnzl",
 			img:"https://s1.imagehub.cc/images/2022/12/04/e50bf5b9866cded55cfd9f4596d71a82.webp",
 			releaseDate:"2020年10月2日",
-			classify:"治愈",
+			classify:"奇幻",
 			country:"日本",
 			state:"总话数: 12"
 		},	]
