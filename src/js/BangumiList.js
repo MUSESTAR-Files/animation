@@ -85,7 +85,7 @@ export const TheBangumiList = ()=>{
 			title:"莉可丽丝 朋友是时间小偷",
 			src:"/animation/lycoris-recoil/01",
 			img:"https://s1.imagehub.cc/images/2025/04/03/faf893c3df1b0b2c08781d1bfd4be400.jpg",
-			releaseDate:"2025年4月6日",
+			releaseDate:"2025年4月16日",
 			classify:"剧情",
 			country:"日本",
 			state:"总话数: 6"
