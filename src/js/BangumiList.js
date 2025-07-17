@@ -33,7 +33,7 @@ export const TheBangumiList = ()=>{
 			src:"/animation/bisquedoll/01",
 			img:"https://s1.imagehub.cc/images/2025/04/03/60a92b3ac311c8f3b972a234c669e3f8.jpg",
 			releaseDate:"2025年7月5日",
-			classify:"剧情",
+			classify:"恋爱",
 			country:"日本",
 			state:"总话数: 12"
 		},
@@ -66,7 +66,7 @@ export const TheBangumiList = ()=>{
 		},
 		{
 			title:"神椿市建设中。",
-			src:"/animation/kamitsubaki/01",
+			src:"/animation/kamitsubaki/00",
 			img:"https://s1.imagehub.cc/images/2025/04/03/b0f087e6f17c4dbe55629ec1d7dcbafa.jpg",
 			releaseDate:"2025年7月3日",
 			classify:"奇幻",
@@ -81,15 +81,6 @@ export const TheBangumiList = ()=>{
 			classify:"剧情",
 			country:"日本",
 			state:"总话数: 6"
-		},
-		{
-			title:"赛马娘 芦毛灰姑娘 Part.1",
-			src:"/animation/cinderellagray/01",
-			img:"https://s1.imagehub.cc/images/2025/04/03/dd5ac8febddf1d5fd870b153d062ceda.jpg",
-			releaseDate:"2025年4月6日",
-			classify:"剧情",
-			country:"日本",
-			state:"总话数: 13"
 		},
 		{
 			title:"[NSFW] 快藏起来！玛琪娜同学!!",
