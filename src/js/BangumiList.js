@@ -1,9 +1,10 @@
 //下面是滚动图列表
 export const TheImgList = ()=> {
 	return [
-		{src: "https://s1.imagehub.cc/images/2025/04/03/dd5ac8febddf1d5fd870b153d062ceda.jpg", href: '/animation/slime300/01'},
-		{src: "https://s1.imagehub.cc/images/2025/04/03/faf893c3df1b0b2c08781d1bfd4be400.jpg", href: '/animation/cinderellagray/01'},
-		{src: "https://s1.imagehub.cc/images/2025/04/03/8d449a1c7848a6e398bdb18c58a33ddb.jpg", href: '/animation/lycoris-recoil/01'},
+		{src: "https://s1.imagehub.cc/images/2025/04/03/1ffa8f4408f5cb7ecf55f6d776f547c4.jpg", href: '/animation/ao-buta/01'},
+		{src: "https://s1.imagehub.cc/images/2025/04/03/16ef2da98f517b406d098a83578f94bc.jpg", href: '/animation/dandadan/01'},
+		{src: "https://s1.imagehub.cc/images/2025/04/03/b0f087e6f17c4dbe55629ec1d7dcbafa.jpg", href: '/animation/silentwitch/01'},
+		{src: "https://s1.imagehub.cc/images/2025/04/03/e0452fbe14a6e58a62a7b7ae21c2938f.jpg", href: '/animation/kamitsubaki/01'},
 	];
 }
 //下面是番剧列表
@@ -22,7 +23,34 @@ export const TheBangumiList = ()=>{
 			title:"青春猪头少年不会梦到圣诞服女郎",
 			src:"/animation/ao-buta/01",
 			img:"https://s1.imagehub.cc/images/2025/04/03/e0452fbe14a6e58a62a7b7ae21c2938f.jpg",
-			releaseDate:"2025年7月",
+			releaseDate:"2025年7月5日",
+			classify:"恋爱",
+			country:"日本",
+			state:"总话数: 13"
+		},
+		{
+			title:"更衣人偶坠入爱河 第二季",
+			src:"/animation/bisquedoll/01",
+			img:"https://s1.imagehub.cc/images/2025/04/03/60a92b3ac311c8f3b972a234c669e3f8.jpg",
+			releaseDate:"2025年7月5日",
+			classify:"剧情",
+			country:"日本",
+			state:"总话数: 12"
+		},
+		{
+			title:"沉默魔女的秘密",
+			src:"/animation/silentwitch/01",
+			img:"https://s1.imagehub.cc/images/2025/04/03/16ef2da98f517b406d098a83578f94bc.jpg",
+			releaseDate:"2025年7月5日",
+			classify:"奇幻",
+			country:"日本",
+			state:"总话数: 13"
+		},
+				{
+			title:"彻夜之歌 第二季",
+			src:"/animation/yofukashi-no-uta/01",
+			img:"https://s1.imagehub.cc/images/2025/04/03/23b8be64b3a583ec2a0d38df1b3f5489.jpg",
+			releaseDate:"2025年7月4日",
 			classify:"恋爱",
 			country:"日本",
 			state:"总话数: "
@@ -31,52 +59,16 @@ export const TheBangumiList = ()=>{
 			title:"胆大党 第二季",
 			src:"/animation/dandadan/01",
 			img:"https://s1.imagehub.cc/images/2025/04/03/1ffa8f4408f5cb7ecf55f6d776f547c4.jpg",
-			releaseDate:"2025年7月",
+			releaseDate:"2025年7月3日",
 			classify:"动作",
 			country:"日本",
-			state:"总话数: "
-		},
-		{
-			title:"怪兽8号 第二季",
-			src:"/animation/kaiju-no8/01",
-			img:"https://s1.imagehub.cc/images/2025/04/03/7203d58a3ebf409061097490b674636a.jpg",
-			releaseDate:"2025年7月",
-			classify:"动作",
-			country:"日本",
-			state:"总话数: "
-		},
-		{
-			title:"彻夜之歌 第二季",
-			src:"/animation/yofukashi-no-uta/01",
-			img:"https://s1.imagehub.cc/images/2025/04/03/23b8be64b3a583ec2a0d38df1b3f5489.jpg",
-			releaseDate:"2025年7月",
-			classify:"恋爱",
-			country:"日本",
-			state:"总话数: "
-		},
-		{
-			title:"更衣人偶坠入爱河 第二季",
-			src:"/animation/bisquedoll/01",
-			img:"https://s1.imagehub.cc/images/2025/04/03/60a92b3ac311c8f3b972a234c669e3f8.jpg",
-			releaseDate:"2025年7月",
-			classify:"剧情",
-			country:"日本",
-			state:"总话数: "
+			state:"总话数: 12"
 		},
 		{
 			title:"神椿市建设中。",
 			src:"/animation/kamitsubaki/01",
 			img:"https://s1.imagehub.cc/images/2025/04/03/b0f087e6f17c4dbe55629ec1d7dcbafa.jpg",
-			releaseDate:"2025年7月",
-			classify:"奇幻",
-			country:"日本",
-			state:"总话数: "
-		},
-		{
-			title:"沉默魔女的秘密",
-			src:"/animation/silentwitch/01",
-			img:"https://s1.imagehub.cc/images/2025/04/03/16ef2da98f517b406d098a83578f94bc.jpg",
-			releaseDate:"2025年7月",
+			releaseDate:"2025年7月3日",
 			classify:"奇幻",
 			country:"日本",
 			state:"总话数: "
