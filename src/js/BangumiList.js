@@ -46,14 +46,14 @@ export const TheBangumiList = ()=>{
 			country:"日本",
 			state:"总话数: 13"
 		},
-				{
+		{
 			title:"彻夜之歌 第二季",
 			src:"/animation/yofukashi-no-uta/01",
 			img:"https://s1.imagehub.cc/images/2025/04/03/23b8be64b3a583ec2a0d38df1b3f5489.jpg",
 			releaseDate:"2025年7月4日",
 			classify:"恋爱",
 			country:"日本",
-			state:"总话数: "
+			state:"总话数: 13"
 		},
 		{
 			title:"胆大党 第二季",
@@ -71,7 +71,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2025年7月3日",
 			classify:"奇幻",
 			country:"日本",
-			state:"总话数: "
+			state:"总话数: 13"
 		},
 		{
 			title:"莉可丽丝 朋友是时间小偷",
