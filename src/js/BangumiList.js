@@ -20,6 +20,15 @@ export const TheBangumiList = ()=>{
 			state:"总话数: 12"
 		},
 		{
+			title:"我们不可能成为恋人！绝对不行。(※似乎可行!?)",
+			src:"/animation/watanare/01",
+			img:"https://s1.imagehub.cc/images/2025/07/22/6e74c5c366a087f3e058137164f5214f.jpg",
+			releaseDate:"2025年7月8日",
+			classify:"百合",
+			country:"日本",
+			state:"总话数: 12"
+		},
+		{
 			title:"青春猪头少年不会梦到圣诞服女郎",
 			src:"/animation/ao-buta/01",
 			img:"https://s1.imagehub.cc/images/2025/04/03/e0452fbe14a6e58a62a7b7ae21c2938f.jpg",
